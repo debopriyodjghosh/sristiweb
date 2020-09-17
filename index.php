@@ -407,7 +407,7 @@
 				<div class="col-md-6 hidden-md">
 					<!--<img src="img/resources/about-1.jpg" alt="Awesome Image/>-->
 					
-					<iframe src="https://www.youtube.com/embed/AI5J638oCLA" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					<iframe src="https://www.youtube.com/embed/AI5J638oCLA" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width:100%; padding: 10% 0%; height: 60vh;"></iframe>
 				</div>
 			</div>
 		</div>
