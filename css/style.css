@@ -91,6 +91,7 @@ img {
 }
 .full-width {
 	width: 100% !important;
+	border-radius: 5px;
 }
 .text-thm {
 	color: #167cbc;
@@ -847,6 +848,7 @@ img {
 	line-height: 20px;
 	list-style: none;
 	padding: 15px 15px 10px;
+	border-radius: 5px 5px 0 0;
 }
 .event .event-thumb .month {
 	background-color: #333;
@@ -856,6 +858,7 @@ img {
 	list-style: none;
 	padding: 7px 15px;
 	text-transform: uppercase;
+	border-radius: 0 0 5px 5px;
 }
 /* bx-event-carousel style-two */
 .event.style-two {
@@ -895,7 +898,8 @@ img {
     width: auto;
     text-indent: 0;
     top: -34px;
-    z-index: 0;
+	z-index: 0;
+	border-radius: 50px;
 }
 .bx-controls .bx-controls-direction > a:hover {
 	background: #fff;
@@ -998,6 +1002,7 @@ img {
 	margin-right: 27px;
 	position: relative;
 	transition: all .3s ease;
+	border-radius: 10px;
 }
 .single-service-home:hover .inner-box {
 	background: #fff;
@@ -1231,7 +1236,7 @@ img {
 	left: 0;
 	right: 0;
 	bottom:0;
-	background: rgba(235,83,16, .75);
+	background: rgba(0,0,0, .65);
 	transform: scale(0);
 	transition: all .5s ease;
 }
@@ -1329,7 +1334,7 @@ img {
 	line-height: 43px;
 	padding: 0;
 	margin: 0;
-	border-radius: 0;
+	border-radius: 50px;
 	margin-left: 15px;
 }
 .owl-theme .owl-nav [class*=owl-]:hover {
@@ -1867,6 +1872,7 @@ img {
 	line-height: 50px;
 	font-weight: bold;
 	transition: all .3s ease;
+	border-radius: 3px;
 }
 .footer-widget.contact-widget button:hover {
 	background: #fff;
@@ -3205,6 +3211,7 @@ img {
 /* 35 .causes recent style */
 .causes {
 	border: 4px solid #eee;
+	border-radius: 10px;
 }
 .causes .thumb {
 	position: relative;
@@ -3219,7 +3226,9 @@ img {
 }
 .causes .thumb .donate-piechart .piechart-block {
 	background-color: #167cbc;
-	border-radius: 50%;
+	border-radius: 50px;
+	width: fit-content;
+	margin: 0% 45%;
 }
 .causes .thumb .donate-piechart .piechart {
 	position: relative;

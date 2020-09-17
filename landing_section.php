@@ -10,7 +10,7 @@
 					</div>
 					<h2>Became a part of the world lorem ipsum</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam quaerat atque, dolore. Amido ipsum dolor sit amet, consectetur adipisicing elit. Numquam quaerat atque, dolore.Lorem ipsum dolor sit amet, consectetur.</p>
-					<a href="#" class="thm-btn">Donate Now</a>
+					<a href="https://razorpay.com/payment-button/pl_Fccy7n81nUQJSy/view/?utm_source=payment_button&utm_medium=button&utm_campaign=payment_button" class="thm-btn">Donate Now</a>
                     <a href="#" class="thm-btn inverse">Read More</a>
 				</div>
 			</div>
@@ -46,7 +46,7 @@
 	                    <p class="p-title">Lorem ipsum dolor sit amet, consectet adipisicing elit. Sed ullam sequi at.</p>
 	                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint, quibusdam qui sequi ullam minima saepe, aliquid suscipit explicabo asperiores nesciunt. Diques ipsum dolor sit amet, consectetur adipisicing elit. Sint, quibusdam qui sequi ullam minima saepe, aliquid suscipit explicabo asperiores nesciunt. Diques ipsum dolor sit amet, consectetur adipisicing elit. Sint, quibusdam qui sequ.</p>
 	                    <div class="pull-left">
-		                    <a class="thm-btn btn-xs mt_30" href="#">Donate Now</a>
+		                    <a class="thm-btn btn-xs mt_30" href="https://razorpay.com/payment-button/pl_Fccy7n81nUQJSy/view/?utm_source=payment_button&utm_medium=button&utm_campaign=payment_button">Donate Now</a>
 	                    </div>
 	                    <div class="pull-right">
 		                    <h6>Help us by share:</h6>

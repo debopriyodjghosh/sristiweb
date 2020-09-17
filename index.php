@@ -55,7 +55,7 @@
 				        data-transform_in="o:0" 
 				        data-transform_out="o:0" 
 				        data-start="2300">
-						<a href="#" class="thm-btn">Donate Now</a>
+						<a href="https://razorpay.com/payment-button/pl_Fccy7n81nUQJSy/view/?utm_source=payment_button&utm_medium=button&utm_campaign=payment_button" class="thm-btn">Donate Now</a>
 				    </div>
 					<div class="tp-caption sfr tp-resizeme" 
 				        data-x="left" data-hoffset="185" 
@@ -108,7 +108,7 @@
 				        data-transform_in="o:0" 
 				        data-transform_out="o:0" 
 				        data-start="2300">
-						<a href="#" class="thm-btn">Donate Now</a>
+						<a href="https://razorpay.com/payment-button/pl_Fccy7n81nUQJSy/view/?utm_source=payment_button&utm_medium=button&utm_campaign=payment_button" class="thm-btn">Donate Now</a>
 				    </div>
 					<div class="tp-caption sfr tp-resizeme" 
 				        data-x="left" data-hoffset="185" 
@@ -187,7 +187,7 @@
 						<div class="content-box">
 							<h3>Udvaban</h3>
 							<p>There are many variations of lorem <br>passagei of Lorem Ipsum availabl </p>
-							<a href="#" class="thm-btn inverse">Donate Now</a>
+							<a href="https://razorpay.com/payment-button/pl_Fccy7n81nUQJSy/view/?utm_source=payment_button&utm_medium=button&utm_campaign=payment_button" class="thm-btn inverse">Donate Now</a>
 						</div>
 					</div>
 				</div>
@@ -236,7 +236,7 @@
 	                <img class="full-width" alt="" src="img/causes/1.jpg">
 	                <div class="donate-piechart">
 	                  <div class="piechart-block">
-	                    <div class="piechart style-one"  data-fg-color="rgba(250,119,68,1)" data-value=".75">
+	                    <div class="piechart style-one"  data-fg-color="rgba(250, 119, 68,1)" data-value=".75">
 						  <span>.75</span>
 						</div>
 	                  </div>
@@ -250,7 +250,7 @@
 	                </ul>
 	                <p>Lorem ipsum dolor sit amet, con sectetur ambo elit. repellendus est rerum sed, aliquid dolor. </p>
 	                <div>
-	                 <a href="#" class="thm-btn btn-xs"> Donate Now </a>
+	                 <a href="https://razorpay.com/payment-button/pl_Fccy7n81nUQJSy/view/?utm_source=payment_button&utm_medium=button&utm_campaign=payment_button" class="thm-btn btn-xs"> Donate Now </a>
 	                </div>
 	              </div>
 	            </div>
@@ -261,7 +261,7 @@
 	                <img class="full-width" alt="" src="img/causes/2.jpg">
 	                <div class="donate-piechart">
 	                  <div class="piechart-block">
-	                    <div class="piechart style-one"  data-fg-color="rgba(250,119,68,1)" data-value=".75">
+	                    <div class="piechart style-one"  data-fg-color="rgba(250, 119, 68,1)" data-value=".75">
 						  <span>.75</span>
 						</div>
 	                  </div>
@@ -275,7 +275,7 @@
 	                </ul>
 	                <p>Lorem ipsum dolor sit amet, con sectetur ambo elit. repellendus est rerum sed, aliquid dolor. </p>
 	                <div>
-	                 <a href="#" class="thm-btn btn-xs"> Donate Now </a>
+	                 <a href="https://razorpay.com/payment-button/pl_Fccy7n81nUQJSy/view/?utm_source=payment_button&utm_medium=button&utm_campaign=payment_button" class="thm-btn btn-xs"> Donate Now </a>
 	                </div>
 	              </div>
 	            </div>
@@ -286,7 +286,7 @@
 	                <img class="full-width" alt="" src="img/causes/3.jpg">
 	                <div class="donate-piechart">
 	                  <div class="piechart-block">
-	                    <div class="piechart style-one"  data-fg-color="rgba(250,119,68,1)" data-value=".75">
+	                    <div class="piechart style-one"  data-fg-color="rgba(250, 119, 68,1)" data-value=".75">
 						  <span>.75</span>
 						</div>
 	                  </div>
@@ -300,7 +300,7 @@
 	                </ul>
 	                <p>Lorem ipsum dolor sit amet, con sectetur ambo elit. repellendus est rerum sed, aliquid dolor. </p>
 	                <div>
-	                 <a href="#" class="thm-btn btn-xs"> Donate Now </a>
+	                 <a href="https://razorpay.com/payment-button/pl_Fccy7n81nUQJSy/view/?utm_source=payment_button&utm_medium=button&utm_campaign=payment_button" class="thm-btn btn-xs"> Donate Now </a>
 	                </div>
 	              </div>
 	            </div>
@@ -311,7 +311,7 @@
 	                <img class="full-width" alt="" src="img/causes/4.jpg">
 	                <div class="donate-piechart">
 	                  <div class="piechart-block">
-	                    <div class="piechart style-one"  data-fg-color="rgba(250,119,68,1)" data-value=".75">
+	                    <div class="piechart style-one"  data-fg-color="rgba(250, 119, 68,1)" data-value=".75">
 						  <span>.75</span>
 						</div>
 	                  </div>
@@ -325,7 +325,7 @@
 	                </ul>
 	                <p>Lorem ipsum dolor sit amet, con sectetur ambo elit. repellendus est rerum sed, aliquid dolor. </p>
 	                <div>
-	                 <a href="#" class="thm-btn btn-xs"> Donate Now </a>
+	                 <a href="https://razorpay.com/payment-button/pl_Fccy7n81nUQJSy/view/?utm_source=payment_button&utm_medium=button&utm_campaign=payment_button" class="thm-btn btn-xs"> Donate Now </a>
 	                </div>
 	              </div>
 	            </div>
@@ -427,7 +427,7 @@
 	                <img class="full-width" alt="" src="img/causes/1.jpg">
 	                <div class="donate-piechart">
 	                  <div class="piechart-block">
-	                    <div class="piechart style-one"  data-fg-color="rgba(250,119,68,1)" data-value=".75">
+	                    <div class="piechart style-one"  data-fg-color="rgba(250, 119, 68,1)" data-value=".75">
 						  <span>.75</span>
 						</div>
 	                  </div>
@@ -452,7 +452,7 @@
 	                <img class="full-width" alt="" src="img/causes/2.jpg">
 	                <div class="donate-piechart">
 	                  <div class="piechart-block">
-	                    <div class="piechart style-one"  data-fg-color="rgba(250,119,68,1)" data-value=".75">
+	                    <div class="piechart style-one"  data-fg-color="rgba(250, 119, 68,1)" data-value=".75">
 						  <span>.75</span>
 						</div>
 	                  </div>
@@ -477,7 +477,7 @@
 	                <img class="full-width" alt="" src="img/causes/3.jpg">
 	                <div class="donate-piechart">
 	                  <div class="piechart-block">
-	                    <div class="piechart style-one"  data-fg-color="rgba(250,119,68,1)" data-value=".75">
+	                    <div class="piechart style-one"  data-fg-color="rgba(250, 119, 68,1)" data-value=".75">
 						  <span>.75</span>
 						</div>
 	                  </div>
@@ -502,7 +502,7 @@
 	                <img class="full-width" alt="" src="img/causes/4.jpg">
 	                <div class="donate-piechart">
 	                  <div class="piechart-block">
-	                    <div class="piechart style-one"  data-fg-color="rgba(250,119,68,1)" data-value=".75">
+	                    <div class="piechart style-one"  data-fg-color="rgba(250, 119, 68,1)" data-value=".75">
 						  <span>.75</span>
 						</div>
 	                  </div>
@@ -660,7 +660,7 @@
 	                    <h3>Charity For Education</h3>
 	                    <p class="p-title">Lorem ipsum dolor sit amet, consectet adipisicing elit. Sed ullam sequi at.</p>
 	                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint, quibusdam qui sequi ullam minima saepe, aliquid suscipit explicabo asperiores nesciunt.</p>
-	                    <a class="thm-btn btn-xs" href="#">Donate Now</a>
+	                    <a class="thm-btn btn-xs" href="https://razorpay.com/payment-button/pl_Fccy7n81nUQJSy/view/?utm_source=payment_button&utm_medium=button&utm_campaign=payment_button">Donate Now</a>
 	                    <a class="thm-btn inverse btn-xs" href="#">Read More</a>
 	                    <h6>Help us by share:</h6>
 	                    <ul class="social">
@@ -737,7 +737,7 @@
 	                </ul>
 	                <p>Lorem ipsum dolor sit amet, consectetur ambo elit. Numquam repellendus est rerum sed, aliquid atup inventore, voluptate, eveniet, soluta nostrum sint.</p>
 	                <div>
-	                 <a href="#" class="thm-btn btn-xs"><i class="fa fa-angle-double-right text-white"></i> Donate Now</a>
+	                 <a href="https://razorpay.com/payment-button/pl_Fccy7n81nUQJSy/view/?utm_source=payment_button&utm_medium=button&utm_campaign=payment_button" class="thm-btn btn-xs"><i class="fa fa-angle-double-right text-white"></i> Donate Now</a>
 	                 <a class="thm-btn inverse btn-xs" href="#"><i class="fa fa-heart text-theme-colored"></i> 25 Donators</a>
 	                </div>
 	              </div>
@@ -749,7 +749,7 @@
 	                <img class="full-width" alt="" src="img/causes/2.jpg">
 	                <div class="donate-piechart">
 	                  <div class="piechart-block">
-	                    <div class="piechart style-one"  data-fg-color="rgba(250,119,68,1)" data-value=".75">
+	                    <div class="piechart style-one"  data-fg-color="rgba(250, 119, 68,1)" data-value=".75">
 						  <span>.75</span>
 						</div>
 	                  </div>
@@ -763,7 +763,7 @@
 	                </ul>
 	                <p>Lorem ipsum dolor sit amet, consectetur ambo elit. Numquam repellendus est rerum sed, aliquid atup inventore, voluptate, eveniet, soluta nostrum sint.</p>
 	                <div>
-	                 <a href="#" class="thm-btn btn-xs"><i class="fa fa-angle-double-right text-white"></i> Donate Now</a>
+	                 <a href="https://razorpay.com/payment-button/pl_Fccy7n81nUQJSy/view/?utm_source=payment_button&utm_medium=button&utm_campaign=payment_button" class="thm-btn btn-xs"><i class="fa fa-angle-double-right text-white"></i> Donate Now</a>
 	                 <a class="thm-btn inverse btn-xs" href="#"><i class="fa fa-heart text-theme-colored"></i> 25 Donators</a>
 	                </div>
 	              </div>
@@ -775,7 +775,7 @@
 	                <img class="full-width" alt="" src="img/causes/3.jpg">
 	                <div class="donate-piechart">
 	                  <div class="piechart-block">
-	                    <div class="piechart style-one"  data-fg-color="rgba(250,119,68,1)" data-value=".75">
+	                    <div class="piechart style-one"  data-fg-color="rgba(250, 119, 68,1)" data-value=".75">
 						  <span>.75</span>
 						</div>
 	                  </div>
@@ -789,7 +789,7 @@
 	                </ul>
 	                <p>Lorem ipsum dolor sit amet, consectetur ambo elit. Numquam repellendus est rerum sed, aliquid atup inventore, voluptate, eveniet, soluta nostrum sint.</p>
 	                <div>
-	                 <a href="#" class="thm-btn btn-xs"><i class="fa fa-angle-double-right text-white"></i> Donate Now</a>
+	                 <a href="https://razorpay.com/payment-button/pl_Fccy7n81nUQJSy/view/?utm_source=payment_button&utm_medium=button&utm_campaign=payment_button" class="thm-btn btn-xs"><i class="fa fa-angle-double-right text-white"></i> Donate Now</a>
 	                 <a class="thm-btn inverse btn-xs" href="#"><i class="fa fa-heart text-theme-colored"></i> 25 Donators</a>
 	                </div>
 	              </div>
