@@ -6,7 +6,7 @@ require_once('config.php');
 
 <html lang="en">
 
-<!-- Mirrored from hasan.themexlab.com/new/charity-home-html/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 22 Mar 2020 15:52:07 GMT -->
+
 <head>
 	<meta charset="UTF-8">
 	<title>Charity Home || Charity and Donation HTML5 Template</title>
@@ -308,20 +308,8 @@ require_once('config.php');
 							</ul>
 						</li>
 						
-						<li class="dropdown">
+						<li>
 							<a href="#">Login</a>
-							<ul class="submenu">
-								<li><a href="donations.html">Donation</a></li>
-								<li><a href="faq.html">FAQ</a></li>
-							</ul>
-						</li>
-						<li class="dropdown">
-							<a href="#">Blog</a>
-							<ul class="submenu">
-								<li><a href="blog-style-one.html">Blog Style One</a></li>
-								<li><a href="blog-style-two.html">Blog Style Two</a></li>
-								<li><a href="blog-details.html">Blog Details</a></li>
-							</ul>
 						</li>
 						<li><a href="contact.html">Contact</a></li>
 						
