@@ -265,52 +265,56 @@ require_once('config.php');
 			<div class="navigation">
 				<div class="nav-header">
 					<ul>
-						<li class="dropdown">
+						<li>
 							<a href="#">Home</a>
-							<!--<ul class="submenu">
-								<li><a href="index.html">Home One</a></li>
-								<li><a href="index2.html">Home Two</a></li>
-							</ul>-->
 						</li>
 										
 						<li class="dropdown">
 							<a href="#">Project</a>
 							<ul class="submenu">
-								<li><a href="causes-grid.html">Causes Grid</a></li>
-								<li><a href="causes-list.html">Causes List</a></li>
-								<li><a href="causes-single.html">Single Cause</a></li>
+								<li><a href="causes-grid.html">Paridhan</a></li>
+								<li><a href="causes-list.html">Shikshan</a></li>
+								<li><a href="causes-single.html">Food Drive</a></li>
+								<li><a href="causes-single.html">Udvaban</a></li>
 							</ul>
 						</li>						
-						<li class="dropdown">
+						<li>
 							<a href="#">Events</a>
-							<ul class="submenu">
-								<li><a href="events-grid.html">Events Grid</a></li>
-								<li><a href="events-list.html">Events List</a></li>
-								<li><a href="events-single.html">Event Single</a></li>
-							</ul>
 						</li>
-						<li class="dropdown">
+						<li>
 							<a href="#">Gallery</a>
-							<ul class="submenu">
-								<li><a href="gallery-style-one.html">Gallery Style One</a></li>
-								<li><a href="gallery-style-two.html">Gallery Style Two</a></li>
-								<li><a href="gallery-style-three.html">Gallery Style Three</a></li>
-							</ul>
 						</li>
-						<li><a href="about.html">About us</a></li>		
-						
 						<li class="dropdown">
-							<a href="#">Join Us</a>
+							<a href="about.html">About us</a>
 							<ul class="submenu">
-								<li><a href="volunteer-style-one.html">Volunteer Style One</a></li>
-								<li><a href="volunteer-style-two.html">Volunteer Style Two</a></li>
-								<li><a href="volunteer-profile.html">Volunteer Profile</a></li>
+								<li>						
+									<form>
+										<script src="https://cdn.razorpay.com/static/widget/payment-button.js" data-payment_button_id="pl_Fccy7n81nUQJSy">
+										</script>
+									</form>
+								</li>
+
+								<li><a href="#">F.A.Q.</a></li>
 							</ul>
+						</li>		
+						
+						<li>
+							<a href="#">Join Us</a>
 						</li>
 						
 						<li>
 							<a href="#">Login</a>
 						</li>
+
+						<!--<li class="dropdown">
+							<a href="#">Blog</a>
+							<ul class="submenu">
+								<li><a href="blog-style-one.html">Blog Style One</a></li>
+								<li><a href="blog-style-two.html">Blog Style Two</a></li>
+								<li><a href="blog-details.html">Blog Details</a></li>
+							</ul>
+						</li>-->
+
 						<li><a href="contact.html">Contact</a></li>
 						
 					</ul>
