@@ -252,17 +252,23 @@ require_once('config.php');
 			<div class="navigation">
 				<div class="nav-header">
 					<ul>
+<<<<<<< HEAD
 						<li class="dropdown">
 							<a href="index.php">Home</a>
 							<!--<ul class="submenu">
 								<li><a href="index.html">Home One</a></li>
 								<li><a href="index2.html">Home Two</a></li>
 							</ul>-->
+=======
+						<li>
+							<a href="#">Home</a>
+>>>>>>> abb126b276a3e5354627ee50878e72e5013ec7b9
 						</li>
 
 						<li class="dropdown">
 							<a href="#">Project</a>
 							<ul class="submenu">
+<<<<<<< HEAD
 								<li><a href="paridhan.php">Paridhan</a></li>
 								<li><a href="shikshan.php">Shikshan</a></li>
 							</ul>
@@ -274,9 +280,20 @@ require_once('config.php');
 								<li><a href="events-list.html">Events List</a></li>
 								<li><a href="events-single.html">Event Single</a></li>
 							</ul>-->
+=======
+								<li><a href="causes-grid.html">Paridhan</a></li>
+								<li><a href="causes-list.html">Shikshan</a></li>
+								<li><a href="causes-single.html">Food Drive</a></li>
+								<li><a href="causes-single.html">Udvaban</a></li>
+							</ul>
+						</li>						
+						<li>
+							<a href="#">Events</a>
+>>>>>>> abb126b276a3e5354627ee50878e72e5013ec7b9
 						</li>
-						<li class="dropdown">
+						<li>
 							<a href="#">Gallery</a>
+<<<<<<< HEAD
 							<!--<ul class="submenu">
 								<li><a href="gallery-style-one.html">Gallery Style One</a></li>
 								<li><a href="gallery-style-two.html">Gallery Style Two</a></li>
@@ -292,11 +309,40 @@ require_once('config.php');
 								<li><a href="volunteer-style-two.html">Volunteer Style Two</a></li>
 								<li><a href="volunteer-profile.html">Volunteer Profile</a></li>
 							</ul>-->
+=======
+						</li>
+						<li class="dropdown">
+							<a href="about.html">About us</a>
+							<ul class="submenu">
+								<li>						
+									<form>
+										<script src="https://cdn.razorpay.com/static/widget/payment-button.js" data-payment_button_id="pl_Fccy7n81nUQJSy">
+										</script>
+									</form>
+								</li>
+
+								<li><a href="#">F.A.Q.</a></li>
+							</ul>
+						</li>		
+						
+						<li>
+							<a href="#">Join Us</a>
+>>>>>>> abb126b276a3e5354627ee50878e72e5013ec7b9
 						</li>
 
 						<li>
 							<a href="#">Login</a>
 						</li>
+
+						<!--<li class="dropdown">
+							<a href="#">Blog</a>
+							<ul class="submenu">
+								<li><a href="blog-style-one.html">Blog Style One</a></li>
+								<li><a href="blog-style-two.html">Blog Style Two</a></li>
+								<li><a href="blog-details.html">Blog Details</a></li>
+							</ul>
+						</li>-->
+
 						<li><a href="contact.html">Contact</a></li>
 
 					</ul>
