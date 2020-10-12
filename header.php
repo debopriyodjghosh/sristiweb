@@ -286,7 +286,7 @@ require_once('config.php');
 						<li><a href="about.html">About us</a></li>
 
 						<li class="dropdown">
-							<a href="#">Join Us</a>
+							<a href="membership.php">Join Us</a>
 							<!--<ul class="submenu">
 								<li><a href="volunteer-style-one.html">Volunteer Style One</a></li>
 								<li><a href="volunteer-style-two.html">Volunteer Style Two</a></li>
