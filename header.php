@@ -266,7 +266,7 @@ require_once('config.php');
 				<div class="nav-header">
 					<ul>
 						<li class="dropdown">
-							<a href="#">Home</a>
+							<a href="index.php">Home</a>
 							<!--<ul class="submenu">
 								<li><a href="index.html">Home One</a></li>
 								<li><a href="index2.html">Home Two</a></li>
@@ -275,11 +275,10 @@ require_once('config.php');
 										
 						<li class="dropdown">
 							<a href="#">Project</a>
-							<!--<ul class="submenu">
-								<li><a href="causes-grid.html">Causes Grid</a></li>
-								<li><a href="causes-list.html">Causes List</a></li>
-								<li><a href="causes-single.html">Single Cause</a></li>
-							</ul>-->
+							<ul class="submenu">
+								<li><a href="paridhan.php">Paridhan</a></li>
+								<li><a href="shikshan.php">Shikshan</a></li>
+							</ul>
 						</li>						
 						<li class="dropdown">
 							<a href="#">Events</a>

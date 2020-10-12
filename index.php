@@ -139,7 +139,7 @@
 						<div class="content-box">
 							<h3>Shikshan</h3>
 							<p>There are many variations of lorem <br>passagei of Lorem Ipsum availabl </p>
-							<a href="#" class="thm-btn inverse">Read More</a>
+							<a href="shikshan.php" class="thm-btn inverse">Read More</a>
 						</div>
 					</div>
 				</div>
@@ -153,7 +153,7 @@
 						<div class="content-box">
 							<h3>Paridhan</h3>
 							<p>There are many variations of lorem <br>passagei of Lorem Ipsum availabl </p>
-							<a href="#" class="thm-btn inverse">Join Now</a>
+							<a href="paridhan.php" class="thm-btn inverse">Read More</a>
 						</div>
 					</div>
 				</div>
@@ -174,54 +174,7 @@
 			</div>
 		</div>
 	</section>
-	<section class="call-to-action">
-		<div class="container-fluid">
-			<div class="clearfix">
-				<div class="call-to-action-corner col-md-4" style="background-image: url(img/call-to-action/left-box-bg.jpg);">
-					<div class="single-call-to-action">
-						<div class="icon-box">
-							<div class="inner-box">
-								<i class="flaticon-circle"></i>
-							</div>						
-						</div>
-						<div class="content-box">
-							<h3>Udvaban</h3>
-							<p>There are many variations of lorem <br>passagei of Lorem Ipsum availabl </p>
-							<a href="#" class="thm-btn inverse">Donate Now</a>
-						</div>
-					</div>
-				</div>
-				<div class="call-to-action-center col-md-4" style="background-image: url(img/call-to-action/center-box-bg.jpg);">
-					<div class="single-call-to-action">
-						<div class="icon-box">
-							<div class="inner-box">
-								<i class="flaticon-social"></i>
-							</div>						
-						</div>
-						<div class="content-box">
-							<h3>Food Drive</h3>
-							<p>There are many variations of lorem <br>passagei of Lorem Ipsum availabl </p>
-							<a href="#" class="thm-btn inverse">Join Now</a>
-						</div>
-					</div>
-				</div>
-				<div class="call-to-action-corner col-md-4" style="background-image: url(img/call-to-action/right-box-bg.jpg);">
-					<div class="single-call-to-action">
-						<div class="icon-box">
-							<div class="inner-box">
-								<i class="flaticon-medical"></i>
-							</div>						
-						</div>
-						<div class="content-box">
-							<h3>Events</h3>
-							<p>There are many variations of lorem <br>passagei of Lorem Ipsum availabl </p>
-							<a href="#" class="thm-btn inverse">Read More</a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
+	
 <section class="recent-causes sec-padding">
 		<div class="container">
 			<div class="sec-title text-center">
@@ -333,7 +286,54 @@
 	        </div>
 		</div>
 	</section>
-	
+	<section class="call-to-action">
+		<div class="container-fluid">
+			<div class="clearfix">
+				<div class="call-to-action-corner col-md-4" style="background-image: url(img/call-to-action/left-box-bg.jpg);">
+					<div class="single-call-to-action">
+						<div class="icon-box">
+							<div class="inner-box">
+								<i class="flaticon-circle"></i>
+							</div>						
+						</div>
+						<div class="content-box">
+							<h3>Udvaban</h3>
+							<p>There are many variations of lorem <br>passagei of Lorem Ipsum availabl </p>
+							<a href="udvaban.html" class="thm-btn inverse">Read More</a>
+						</div>
+					</div>
+				</div>
+				<div class="call-to-action-center col-md-4" style="background-image: url(img/call-to-action/center-box-bg.jpg);">
+					<div class="single-call-to-action">
+						<div class="icon-box">
+							<div class="inner-box">
+								<i class="flaticon-social"></i>
+							</div>						
+						</div>
+						<div class="content-box">
+							<h3>Food Drive</h3>
+							<p>There are many variations of lorem <br>passagei of Lorem Ipsum availabl </p>
+							<a href="#" class="thm-btn inverse">Read More</a>
+						</div>
+					</div>
+				</div>
+				<div class="call-to-action-corner col-md-4" style="background-image: url(img/call-to-action/right-box-bg.jpg);">
+					<div class="single-call-to-action">
+						<div class="icon-box">
+							<div class="inner-box">
+								<i class="flaticon-medical"></i>
+							</div>						
+						</div>
+						<div class="content-box">
+							<h3>Events</h3>
+							<p>There are many variations of lorem <br>passagei of Lorem Ipsum availabl </p>
+							<a href="#" class="thm-btn inverse">Read More</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
 	<section class="sec-padding faq-home">
 		<div class="container">
 			<hr>
@@ -407,13 +407,14 @@
 				<div class="col-md-6 hidden-md">
 					<!--<img src="img/resources/about-1.jpg" alt="Awesome Image/>-->
 					
-					<iframe src="https://www.youtube.com/embed/AI5J638oCLA" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					<iframe src="https://www.youtube.com/embed/AI5J638oCLA" width="300" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</div>
 			</div>
 		</div>
 	</section>
 
-<!--<section class="recent-causes sec-padding">
+
+	<!--<section class="recent-causes sec-padding">
 		<div class="container">
 			<div class="sec-title text-center">
 				<h2>Recent Causes</h2>
@@ -678,7 +679,11 @@
 	        </div>
 		</div>
 	</section>
-<section class="fact-counter-wrapper sec-padding parallax-section">
+
+
+
+
+	<section class="fact-counter-wrapper sec-padding parallax-section">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-md-12 md-text-center">
@@ -798,7 +803,10 @@
 	        </div>
 		</div>
 	</section>
-    <section class="event-feature sec-padding bg-color-fa">
+
+
+
+    <!--<section class="event-feature sec-padding bg-color-fa">
 		<div class="container">
 			<div class="row">
 	          <div class="col-sm-12 col-md-6">
@@ -892,9 +900,9 @@
 				</div>
 	        </div>
 		</div>
-	</section>
+	</section>-->
 	
-	<section class="event-feature sec-padding bg-color-fa">
+	<!--<section class="event-feature sec-padding bg-color-fa">
 		<div class="container">
 			<div class="row">
 	          <div class="col-sm-12 col-md-6">
@@ -1051,7 +1059,7 @@
 				</div>
 	        </div>
 		</div>
-	</section>
+	</section>-->
 
 	<!--landing-->
 	
@@ -1286,7 +1294,7 @@
 	</section>-->
 
 
-	<section class="sec-padding meet-Volunteer">
+	<!--<section class="sec-padding meet-Volunteer">
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-10">
@@ -1486,7 +1494,7 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section>-->
 
 
 	<section class="sec-padding testimonials-wrapper parallax-section">
