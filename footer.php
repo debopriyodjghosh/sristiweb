@@ -88,7 +88,7 @@
 
 	<section class="footer-bottom">
 		<div class="container text-center">
-			<p>Theme Created By <a href="#">TEMPLATE PATH</a> with love</p>
+			<p> @ <a href="#">WEB Team</a> Shibpur Sristi</p>
 		</div>
 	</section>
 
@@ -148,5 +148,4 @@
 
 </body>
 
-<!-- Mirrored from hasan.themexlab.com/new/charity-home-html/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 22 Mar 2020 15:53:04 GMT -->
 </html>
