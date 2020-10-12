@@ -4,7 +4,7 @@
 				<div class="col-md-3 col-sm-6">
 					<div class="footer-widget about-widget">
 						<a href="#">
-							<img src="img/resources/footer-logo.png" alt="Awesome Image"/>
+							<img src="img/resources/logo.png" alt="Awesome Image"/>
 						</a>
 						<p>Lorem ipsum dolor sit amet, eu me evert laboramus, iudico </p>
 						<ul class="contact">
@@ -60,7 +60,7 @@
 								<li>
 									<div class="footer-widget contact-widget">
 										<h3 class="title">Signup for Newsletter</h3>
-											<form action="http://hasan.themexlab.com/new/charity-home-html/inc/sendemail.php" class="contact-form" id="footer-cf">
+											<form action="" class="contact-form" id="footer-cf">
 											<input type="text" name="email" placeholder="Email Address" >
 											<button type="submit">Signup</button>	
 									</div>
@@ -73,7 +73,7 @@
 				<div class="col-md-4 col-sm-6">
 					<div class="footer-widget contact-widget">
 						<h3 class="title">Contact Form</h3>
-						<form action="http://hasan.themexlab.com/new/charity-home-html/inc/sendemail.php" class="contact-form" id="footer-cf">
+						<form action="" class="contact-form" id="footer-cf">
 							<input type="text" name="name"  placeholder="Full Name">
 							<input type="text" name="email" placeholder="Email Address" >
 							<textarea name="message" placeholder="Your Message"></textarea>

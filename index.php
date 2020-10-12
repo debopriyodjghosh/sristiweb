@@ -1,6 +1,7 @@
     <?php
 	include 'header.php';
 	?>
+	
 <!--TOP image-->
     <section class="rev_slider_wrapper">
     	<div id="slider1" class="rev_slider" data-version="5.0">
@@ -339,7 +340,9 @@
     				<!--<img src="img/resources/about-1.jpg" alt="Awesome Image/>-->
 
     				<iframe src="https://www.youtube.com/embed/AI5J638oCLA" width="360" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    			</div>
+				</div>
+				
+				
     		</div>
     	</div>
     </section>
