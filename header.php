@@ -268,7 +268,7 @@ require_once('config.php');
 							</ul>
 						</li>
 						<li class="dropdown">
-							<a href="#">Events</a>
+							<a href="events.php">Events</a>
 							<!--<ul class="submenu">
 								<li><a href="events-grid.html">Events Grid</a></li>
 								<li><a href="events-list.html">Events List</a></li>
@@ -276,14 +276,14 @@ require_once('config.php');
 							</ul>-->
 						</li>
 						<li>
-							<a href="#">Gallery</a>
+							<a href="gallery.php">Gallery</a>
 							<!--<ul class="submenu">
 								<li><a href="gallery-style-one.html">Gallery Style One</a></li>
 								<li><a href="gallery-style-two.html">Gallery Style Two</a></li>
 								<li><a href="gallery-style-three.html">Gallery Style Three</a></li>
 							</ul>-->
 						</li>
-						<li><a href="about.html">About us</a></li>
+						<li><a href="about.php">About us</a></li>
 
 						<li class="dropdown">
 							<a href="membership.php">Join Us</a>
@@ -307,7 +307,7 @@ require_once('config.php');
 							</ul>
 						</li>-->
 
-						<li><a href="contact.html">Contact</a></li>
+						<li><a href="contact.php">Contact</a></li>
 
 					</ul>
 

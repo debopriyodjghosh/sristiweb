@@ -50,7 +50,7 @@
     </section>
 
 <!--reference-->
-    <section class="call-to-action">
+<section class="call-to-action">
     	<div class="container-fluid">
     		<div class="clearfix">
     			<div class="call-to-action-corner col-md-4" style="background-image: url(img/call-to-action/left-box-bg.jpg);">
@@ -97,12 +97,100 @@
     			</div>
     		</div>
     	</div>
+</section>
+
+
+
+	<!--Latest work-->
+	
+    <section class="recent-causes sec-padding">
+    	<div class="container">
+    		<div class="sec-title text-center">
+    			<h2>Latest work</h2>
+    			<p>Lorem ipsum is a dummy text it will use for subtitle here</p>
+    			<span class="decor"><span class="inner"></span></span>
+    		</div>
+    		<div class="row">
+    			<div class="col-sm-12 col-md-4 col-lg-4">
+    				<div class="causes sm-col5-center">
+    					<div class="thumb">
+    						<img class="rounded-circle" alt="" src="img/causes/1.jpg">
+    						<div class="donate-piechart">
+    							<div class="piechart-block">
+
+    							</div>
+    						</div>
+    					</div>
+    					<div class="causes-details clearfix">
+    						<h4 class="title"><a href="#">Who we are</a></h4>
+    						<ul class="about-causes list-inline clearfix">
+
+    						</ul>
+    						<p>Lorem ipsum dolor sit amet, consectetur ambo elit. Numquam repellendus est rerum sed, aliquid atup inventore, voluptate, eveniet, soluta nostrum sint.</p>
+    						<div>
+    							<a href="#" class="thm-btn btn-xs"><i class="fa fa-angle-double-right text-white"></i> Donate Now</a>
+    							<a class="thm-btn inverse btn-xs" href="#"><i class="fa fa-heart text-theme-colored"></i> 25 Donators</a>
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+    			<div class="col-sm-12 col-md-4 col-lg-4">
+    				<div class="causes sm-col5-center">
+    					<div class="thumb">
+    						<img class="full-width" alt="" src="img/causes/2.jpg">
+    						<div class="donate-piechart">
+    							<div class="piechart-block">
+    								<div class="piechart style-one" data-fg-color="rgba(250,119,68,1)" data-value=".75">
+    									<span>.75</span>
+    								</div>
+    							</div>
+    						</div>
+    					</div>
+    					<div class="causes-details clearfix">
+    						<h4 class="title"><a href="#">Sponsor a child today</a></h4>
+    						<ul class="about-causes list-inline clearfix">
+    							<li class="causes-raised">Raised: $1890</li>
+    							<li class="causes-goal">Goal: $2500</li>
+    						</ul>
+    						<p>Lorem ipsum dolor sit amet, consectetur ambo elit. Numquam repellendus est rerum sed, aliquid atup inventore, voluptate, eveniet, soluta nostrum sint.</p>
+    						<div>
+    							<a href="#" class="thm-btn btn-xs"><i class="fa fa-angle-double-right text-white"></i> Donate Now</a>
+    							<a class="thm-btn inverse btn-xs" href="#"><i class="fa fa-heart text-theme-colored"></i> 25 Donators</a>
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+    			<div class="col-sm-12 col-md-4 col-lg-4">
+    				<div class="causes sm-col5-center">
+    					<div class="thumb">
+    						<img class="full-width" alt="" src="img/causes/3.jpg">
+    						<div class="donate-piechart">
+    							<div class="piechart-block">
+    								<div class="piechart style-one" data-fg-color="rgba(250,119,68,1)" data-value=".75">
+    									<span>.75</span>
+    								</div>
+    							</div>
+    						</div>
+    					</div>
+    					<div class="causes-details clearfix">
+    						<h4 class="title"><a href="#">Sponsor a child today</a></h4>
+    						<ul class="about-causes list-inline clearfix">
+    							<li class="causes-raised">Raised: $1890</li>
+    							<li class="causes-goal">Goal: $2500</li>
+    						</ul>
+    						<p>Lorem ipsum dolor sit amet, consectetur ambo elit. Numquam repellendus est rerum sed, aliquid atup inventore, voluptate, eveniet, soluta nostrum sint.</p>
+    						<div>
+    							<a href="#" class="thm-btn btn-xs"><i class="fa fa-angle-double-right text-white"></i> Donate Now</a>
+    							<a class="thm-btn inverse btn-xs" href="#"><i class="fa fa-heart text-theme-colored"></i> 25 Donators</a>
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+    		</div>
+    	</div>
     </section>
 
-
-
-    <!--Latest work-->
-    <section class="recent-causes sec-padding">
+    <!--<section class="recent-causes sec-padding">
     	<div class="container">
     		<div class="sec-title text-center">
     			<h2>Latest work</h2>
@@ -212,7 +300,7 @@
     			</div>
     		</div>
     	</div>
-    </section>
+    </section>-->
 
 
     <!--reference-->
@@ -375,12 +463,8 @@
 	                </ul>
 	                <p>Lorem ipsum dolor sit amet, con sectetur ambo elit. repellendus est rerum sed, aliquid dolor. </p>
 	                <div>
-<<<<<<< HEAD
-	                 <a href="#" class="thm-btn btn-xs"> Donate Now </a>
-=======
 	                 <a href="https://razorpay.com/payment-button/pl_Fccy7n81nUQJSy/view/?utm_source=payment_button&utm_medium=button&utm_campaign=payment_button" class="thm-btn btn-xs"><i class="fa fa-angle-double-right text-white"></i> Donate Now</a>
 	                 <a class="thm-btn inverse btn-xs" href="#"><i class="fa fa-heart text-theme-colored"></i> 25 Donators</a>
->>>>>>> abb126b276a3e5354627ee50878e72e5013ec7b9
 	                </div>
 	              </div>
 	            </div>
@@ -405,12 +489,7 @@
 	                </ul>
 	                <p>Lorem ipsum dolor sit amet, con sectetur ambo elit. repellendus est rerum sed, aliquid dolor. </p>
 	                <div>
-<<<<<<< HEAD
 	                 <a href="#" class="thm-btn btn-xs"> Donate Now </a>
-=======
-	                 <a href="https://razorpay.com/payment-button/pl_Fccy7n81nUQJSy/view/?utm_source=payment_button&utm_medium=button&utm_campaign=payment_button" class="thm-btn btn-xs"><i class="fa fa-angle-double-right text-white"></i> Donate Now</a>
-	                 <a class="thm-btn inverse btn-xs" href="#"><i class="fa fa-heart text-theme-colored"></i> 25 Donators</a>
->>>>>>> abb126b276a3e5354627ee50878e72e5013ec7b9
 	                </div>
 	              </div>
 	            </div>
@@ -460,12 +539,7 @@
 	                </ul>
 	                <p>Lorem ipsum dolor sit amet, con sectetur ambo elit. repellendus est rerum sed, aliquid dolor. </p>
 	                <div>
-<<<<<<< HEAD
 	                 <a href="#" class="thm-btn btn-xs"> Donate Now </a>
-=======
-	                 <a href="https://razorpay.com/payment-button/pl_Fccy7n81nUQJSy/view/?utm_source=payment_button&utm_medium=button&utm_campaign=payment_button" class="thm-btn btn-xs"><i class="fa fa-angle-double-right text-white"></i> Donate Now</a>
-	                 <a class="thm-btn inverse btn-xs" href="#"><i class="fa fa-heart text-theme-colored"></i> 25 Donators</a>
->>>>>>> abb126b276a3e5354627ee50878e72e5013ec7b9
 	                </div>
 	              </div>
 	            </div>
