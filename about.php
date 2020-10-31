@@ -1,8 +1,6 @@
 <?php
 	include 'header.php';
     ?>
-    
-
     <section class="inner-header">
 		<div class="container">
 			<div class="row">
