@@ -264,7 +264,7 @@ require_once('config.php');
 							</ul>
 						</li>
 						<li class="dropdown">
-							<a href="events.php">Events</a>
+							<a href="event.php">Events</a>
 							
 						</li>
 						<li>
