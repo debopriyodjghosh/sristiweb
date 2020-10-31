@@ -25,13 +25,12 @@
 					<div class="footer-widget quick-links">
 						<h3 class="title">Pages</h3>
 						<ul>
-							<li><a href="about.html">About Us</a></li>
-							<li><a href="causes-grid.html">Causes</a></li>
-							<li><a href="events-grid.html">Events</a></li>
-							<li><a href="faq.html">Faq</a></li>
-							<li><a href="blog-style-two.html">Archives</a></li>
-							<li><a href="blog-style-one.html">News</a></li>
-							<li><a href="contact.html">Contact</a></li>
+							<li><a href="aindex.php">Home</a></li>
+							<li><a href="event.php">Events</a></li>
+							<li><a href="gallery.php">Gallery</a></li>
+							<li><a href="about.php">About Us</a></li>
+							<li><a href="membership.php">Join Us</a></li>
+							<li><a href="contact.php">Contact</a></li>
 						</ul>
 					</div>
 				</div>

@@ -32,7 +32,7 @@ require_once('config.php');
 		<div class="container">
 
 			<div class="left-text pull-left">
-				<p><span>Reg. No. :</span> S/2L 26147 of 2014-15, Under WB Societies Act XXVI of 1961</p>
+				<p><span>Reg. No. :</span> <b>S/2L 26147 of 2014-15</b>, Under WB Societies Act XXVI of 1961</p>
 			</div> <!-- /.left-text -->
 
 			<div class="social-icons pull-right">
@@ -254,11 +254,7 @@ require_once('config.php');
 					<ul>
 						<li class="dropdown">
 							<a href="index.php">Home</a>
-							<!--<ul class="submenu">
-								<li><a href="index.html">Home One</a></li>
-								<li><a href="index2.html">Home Two</a></li>
-							</ul>-->
-						</li>
+													</li>
 
 						<li class="dropdown">
 							<a href="#">Project</a>
@@ -269,43 +265,23 @@ require_once('config.php');
 						</li>
 						<li class="dropdown">
 							<a href="events.php">Events</a>
-							<!--<ul class="submenu">
-								<li><a href="events-grid.html">Events Grid</a></li>
-								<li><a href="events-list.html">Events List</a></li>
-								<li><a href="events-single.html">Event Single</a></li>
-							</ul>-->
+							
 						</li>
 						<li>
 							<a href="gallery.php">Gallery</a>
-							<!--<ul class="submenu">
-								<li><a href="gallery-style-one.html">Gallery Style One</a></li>
-								<li><a href="gallery-style-two.html">Gallery Style Two</a></li>
-								<li><a href="gallery-style-three.html">Gallery Style Three</a></li>
-							</ul>-->
+							
 						</li>
 						<li><a href="about.php">About us</a></li>
 
 						<li class="dropdown">
 							<a href="membership.php">Join Us</a>
-							<!--<ul class="submenu">
-								<li><a href="volunteer-style-one.html">Volunteer Style One</a></li>
-								<li><a href="volunteer-style-two.html">Volunteer Style Two</a></li>
-								<li><a href="volunteer-profile.html">Volunteer Profile</a></li>
-							</ul>-->
+							
 						</li>
 
 						<li>
 							<a href="#">Login</a>
 						</li>
 
-						<!--<li class="dropdown">
-							<a href="#">Blog</a>
-							<ul class="submenu">
-								<li><a href="blog-style-one.html">Blog Style One</a></li>
-								<li><a href="blog-style-two.html">Blog Style Two</a></li>
-								<li><a href="blog-details.html">Blog Details</a></li>
-							</ul>
-						</li>-->
 
 						<li><a href="contact.php">Contact</a></li>
 
