@@ -1,5 +1,5 @@
-<?php 
-require_once('config.php'); 
+<?php
+require_once('config.php');
 ?>
 <!DOCTYPE html>
 
@@ -9,13 +9,13 @@ require_once('config.php');
 
 <head>
 	<meta charset="UTF-8">
-	<title>Charity Home || Charity and Donation HTML5 Template</title>
+	<title>Shibpur Sristi</title>
 
 	<!-- responsive meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="viewport" content="width=device-width">
-	
-	
+
+
 	<!-- master stylesheet -->
 	<link rel="stylesheet" href="css/style.css">
 	<!-- responsive stylesheet -->
@@ -24,6 +24,7 @@ require_once('config.php');
 
 
 </head>
+
 <body>
 
 
@@ -31,7 +32,7 @@ require_once('config.php');
 		<div class="container">
 
 			<div class="left-text pull-left">
-				<p><span>Support Us :</span> companyname@mail.com</p>
+				<p><span>Reg. No. :</span> <b>S/2L 26147 of 2014-15</b>, Under WB Societies Act XXVI of 1961</p>
 			</div> <!-- /.left-text -->
 
 			<div class="social-icons pull-right">
@@ -50,7 +51,7 @@ require_once('config.php');
 		<div class="container">
 			<div class="logo pull-left">
 				<a href="index.html">
-					<img src="img/resources/logo.png" alt="Awesome Image"/>
+					<img src="img/resources/logo.png" alt="Awesome Image" />
 				</a>
 			</div>
 			<div class="header-right-info pull-right clearfix">
@@ -62,7 +63,7 @@ require_once('config.php');
 					</div>
 					<div class="content">
 						<h3>EMAIL</h3>
-						<p>companyname@mail.com</p>
+						<p><b>info@shibpursristi.org</b></p>
 					</div>
 				</div>
 				<div class="single-header-info">
@@ -73,61 +74,47 @@ require_once('config.php');
 					</div>
 					<div class="content">
 						<h3>Call Now</h3>
-						<p><b>(732) 803-010-03</b></p>
+						<p><b>8820328618</b></p>
 					</div>
 				</div>
 				<div class="single-header-info">
-	                <!-- Modal: donate now Starts -->
-	              <!-- <a class="thm-btn" data-toggle="modal" href="#modal-donate-now">Donate Now</a>
+					<!-- Modal: donate now Starts -->
+					<!-- <a class="thm-btn" data-toggle="modal" href="#modal-donate-now">Donate Now</a>-->
 
-	               <!-- <div class="modal fade" id="modal-donate-now" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+					<!-- <div class="modal fade" id="modal-donate-now" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 	                  <div class="modal-dialog style-one" role="document">
-	                    <div class="modal-content">
-	                         <!--color: #ffffff !important;
-        background-color: #7266ba;
-        border-color: #7266ba;
-        font-size: 14px;
-        padding: 10px;
-        background: #167cbc;-->
-	                        <style>
-	                        
-      .razorpay-payment-button {
-           border-radius: 30px;
-    display: inline-block;
-    background-color: #167cbc;
-    color: #fff;
-    font-size: 12px;
-    font-family: 'Raleway', sans-serif;
-    text-transform: uppercase;
-    font-weight: bold;
-    padding: 12px 35px;
-    border: 2px solid transparent;
-    transition: all .3s ease;
-}
+	                    <div class="modal-content">-->
+					<!--color: #ffffff !important;
+						background-color: #7266ba;
+						border-color: #7266ba;
+						font-size: 14px;
+						padding: 10px;
+						background: #167cbc;-->
+					<style>
+						.razorpay-payment-button {
+							border-radius: 30px;
+							display: inline-block;
+							background-color: #167cbc;
+							color: #fff;
+							font-size: 12px;
+							font-family: 'Raleway', sans-serif;
+							text-transform: uppercase;
+							font-weight: bold;
+							padding: 12px 35px;
+							border: 2px solid transparent;
+							transition: all .3s ease;
+						}
+					</style>
 
-      
-    </style>
-	                      
-<form action="charge.php" method="POST">
-    <!-- Note that the amount is in paise = 50 INR -->
-    <script
-        src="https://checkout.razorpay.com/v1/checkout.js"
-        data-key="<?php echo $razor_api_key; ?>"
-        data-amount="10000"
-        data-buttontext="Donate Now"
-        data-name="Sristi"
-        data-description="Donation"
-        data-image="https://your-awesome-site.com/your_logo.jpg"
-        data-prefill.name=""
-        data-prefill.email=""
-        data-theme.color="#167cbc"
-    ></script>
-    <input type="hidden" value="Hidden Element" name="hidden">
-    </form>
-				            	<!--<form action="http://hasan.themexlab.com/new/charity-home-html/contact.html" method="post">
+					<form action="charge.php" method="POST">
+						<!-- Note that the amount is in paise = 50 INR -->
+						<script src="https://checkout.razorpay.com/v1/checkout.js" data-key="<?php echo $razor_api_key; ?>" data-amount="10000" data-buttontext="Donate Now" data-name="Sristi" data-description="Donation" data-image="https://your-awesome-site.com/your_logo.jpg" data-prefill.name="" data-prefill.email="" data-theme.color="#167cbc"></script>
+						<input type="hidden" value="Hidden Element" name="hidden">
+					</form>
+					<!--<form action="http://hasan.themexlab.com/new/charity-home-html/contact.html" method="post">-->
 				                	
 				                    <!--Form Portlet-->
-				                    <!--<div class="form-portlet">
+					<!--<div class="form-portlet">
 				                    	<h3>Donation Amount</h3>
 				                        
 				                        <div class="row clearfix">
@@ -178,10 +165,10 @@ require_once('config.php');
 				                        </div>
 				                    </div>
 				                    
-				                    <hr>
+				                    <hr>-->
 				                    
 				                    <!--Form Portlet-->
-				                    <!--<div class="form-portlet">
+					<!--<div class="form-portlet">
 				                    	<h3>Billing Information</h3>
 				                        
 				                        <div class="row clearfix">
@@ -237,10 +224,10 @@ require_once('config.php');
 				                        </div>
 				                    </div>
 				                    
-				                    <hr>
+				                    <hr>-->
 				                    
 				                    <!--Form Portlet-->
-				                  <!--  <div class="form-portlet">
+					<!--  <div class="form-portlet">
 				                    	<h3>Online Payment Information</h3>
 				                        
 				                        <div class="payment-option-logo"><img alt="" src="img/resources/payment-logos.png" class="img-responsive"></div>
@@ -253,7 +240,7 @@ require_once('config.php');
 	                    </div>
 	                  </div>
 	                </div> -->
-	                <!-- Modal: donate now Ends -->
+					<!-- Modal: donate now Ends -->
 				</div>
 			</div>
 		</div>
@@ -265,60 +252,41 @@ require_once('config.php');
 			<div class="navigation">
 				<div class="nav-header">
 					<ul>
-						<li>
-							<a href="#">Home</a>
-						</li>
-										
+						<li class="dropdown">
+							<a href="index.php">Home</a>
+													</li>
+
 						<li class="dropdown">
 							<a href="#">Project</a>
 							<ul class="submenu">
-								<li><a href="causes-grid.html">Paridhan</a></li>
-								<li><a href="causes-list.html">Shikshan</a></li>
-								<li><a href="causes-single.html">Food Drive</a></li>
-								<li><a href="causes-single.html">Udvaban</a></li>
+								<li><a href="paridhan.php">Paridhan</a></li>
+								<li><a href="shikshan.php">Shikshan</a></li>
 							</ul>
-						</li>						
-						<li>
-							<a href="#">Events</a>
-						</li>
-						<li>
-							<a href="#">Gallery</a>
 						</li>
 						<li class="dropdown">
-							<a href="about.html">About us</a>
-							<ul class="submenu">
-								<li>						
-									<form>
-										<script src="https://cdn.razorpay.com/static/widget/payment-button.js" data-payment_button_id="pl_Fccy7n81nUQJSy">
-										</script>
-									</form>
-								</li>
-
-								<li><a href="#">F.A.Q.</a></li>
-							</ul>
-						</li>		
-						
-						<li>
-							<a href="#">Join Us</a>
+							<a href="events.php">Events</a>
+							
 						</li>
-						
+						<li>
+							<a href="gallery.php">Gallery</a>
+							
+						</li>
+						<li><a href="about.php">About us</a></li>
+
+						<li class="dropdown">
+							<a href="membership.php">Join Us</a>
+							
+						</li>
+
 						<li>
 							<a href="#">Login</a>
 						</li>
 
-						<!--<li class="dropdown">
-							<a href="#">Blog</a>
-							<ul class="submenu">
-								<li><a href="blog-style-one.html">Blog Style One</a></li>
-								<li><a href="blog-style-two.html">Blog Style Two</a></li>
-								<li><a href="blog-details.html">Blog Details</a></li>
-							</ul>
-						</li>-->
 
-						<li><a href="contact.html">Contact</a></li>
-						
+						<li><a href="contact.php">Contact</a></li>
+
 					</ul>
-					
+
 				</div>
 				<div class="nav-footer">
 					<button><i class="fa fa-bars"></i></button>
