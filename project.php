@@ -8,10 +8,12 @@
 		<div class="container">
 		        <?php
                     include_once 'db.php'; 
-            	    $query = $conn->query("SELECT * FROM initiatieve ORDER BY uploaded_on DESC");
+            	    $query = $conn->query("SELECT * FROM project ORDER BY uploaded_on DESC");
             	    if($query->num_rows > 0){
                         while($row = $query->fetch_assoc()){
-                            $imageURL = 'https://www.shibpursristi.org/web/project_image/'.$row["file_name"];
+
+							//change in server with https://www.shibpursristi.org/web/project_image/
+                            $imageURL = 'C:\xampp\htdocs\Sristi\admin\sristi_page\project_image'.$row["file_name"];
                                 $date = $row["date"];
                                 $place = $row["place"];
                                 $title = $row["title"];

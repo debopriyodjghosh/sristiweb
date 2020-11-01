@@ -22,7 +22,9 @@ include "header.php";
     if ($query->num_rows > 0) {
       $count = 1;
       while ($row = $query->fetch_assoc()) {
-        $imageURL = 'https://www.shibpursristi.org/web/uploads/' . $row["file_name"];
+
+        //////change in server with https://www.shibpursristi.org/web/uploads/
+        $imageURL = 'C:\xampp\htdocs\Sristi\admin\sristi_page\uploads' . $row["file_name"];
         $project_name = $row["project_name"];
         $project_category = $row["project_category"];
 
