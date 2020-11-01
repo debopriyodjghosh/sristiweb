@@ -1,10 +1,4 @@
-<?php
-	/*include 'header.php';*/
-	
-	?>
-	
-	<!-- if we add this page under shikshan or paridhan we have to remove the header section-->
-	
+
 <?php
 	include 'project_slider.php';
 	
@@ -111,10 +105,3 @@
 								  
 								  </div>-->
 	
-	
-	
-	
-	
-<?php
-		/*include 'footer.php';*/
-	?>
