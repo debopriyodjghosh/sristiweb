@@ -1,0 +1,94 @@
+[23-Nov-2020 14:00:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/shibpmpw/public_html/website/cms/sristi_page/db.php on line 6
+[23-Nov-2020 14:00:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/shibpmpw/public_html/website/cms/sristi_page/db.php:8
+Stack trace:
+#0 /home/shibpmpw/public_html/website/cms/sristi_page/gallery.php(116): include_once()
+#1 {main}
+  thrown in /home/shibpmpw/public_html/website/cms/sristi_page/db.php on line 8
+[23-Nov-2020 14:01:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/shibpmpw/public_html/website/cms/sristi_page/db.php on line 6
+[23-Nov-2020 14:01:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/shibpmpw/public_html/website/cms/sristi_page/db.php:8
+Stack trace:
+#0 /home/shibpmpw/public_html/website/cms/sristi_page/add_category.php(7): include_once()
+#1 {main}
+  thrown in /home/shibpmpw/public_html/website/cms/sristi_page/db.php on line 8
+[23-Nov-2020 14:01:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/shibpmpw/public_html/website/cms/sristi_page/db.php on line 6
+[23-Nov-2020 14:01:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/shibpmpw/public_html/website/cms/sristi_page/db.php:8
+Stack trace:
+#0 /home/shibpmpw/public_html/website/cms/sristi_page/add_category.php(7): include_once()
+#1 {main}
+  thrown in /home/shibpmpw/public_html/website/cms/sristi_page/db.php on line 8
+[23-Nov-2020 14:01:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/shibpmpw/public_html/website/cms/sristi_page/db.php on line 6
+[23-Nov-2020 14:01:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/shibpmpw/public_html/website/cms/sristi_page/db.php:8
+Stack trace:
+#0 /home/shibpmpw/public_html/website/cms/sristi_page/add_project.php(97): include_once()
+#1 {main}
+  thrown in /home/shibpmpw/public_html/website/cms/sristi_page/db.php on line 8
+[23-Nov-2020 14:01:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/shibpmpw/public_html/website/cms/sristi_page/db.php on line 6
+[23-Nov-2020 14:01:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/shibpmpw/public_html/website/cms/sristi_page/db.php:8
+Stack trace:
+#0 /home/shibpmpw/public_html/website/cms/sristi_page/gallery.php(116): include_once()
+#1 {main}
+  thrown in /home/shibpmpw/public_html/website/cms/sristi_page/db.php on line 8
+[23-Nov-2020 14:01:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/shibpmpw/public_html/website/cms/sristi_page/db.php on line 6
+[23-Nov-2020 14:01:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/shibpmpw/public_html/website/cms/sristi_page/db.php:8
+Stack trace:
+#0 /home/shibpmpw/public_html/website/cms/sristi_page/add_document.php(6): include()
+#1 {main}
+  thrown in /home/shibpmpw/public_html/website/cms/sristi_page/db.php on line 8
+[23-Nov-2020 14:02:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/shibpmpw/public_html/website/cms/sristi_page/db.php on line 6
+[23-Nov-2020 14:02:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/shibpmpw/public_html/website/cms/sristi_page/db.php:8
+Stack trace:
+#0 /home/shibpmpw/public_html/website/cms/sristi_page/add_category.php(7): include_once()
+#1 {main}
+  thrown in /home/shibpmpw/public_html/website/cms/sristi_page/db.php on line 8
+[23-Nov-2020 14:03:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/shibpmpw/public_html/website/cms/sristi_page/db.php on line 6
+[23-Nov-2020 14:03:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/shibpmpw/public_html/website/cms/sristi_page/db.php:8
+Stack trace:
+#0 /home/shibpmpw/public_html/website/cms/sristi_page/add_document.php(6): include()
+#1 {main}
+  thrown in /home/shibpmpw/public_html/website/cms/sristi_page/db.php on line 8
+[23-Nov-2020 14:03:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/shibpmpw/public_html/website/cms/sristi_page/db.php on line 6
+[23-Nov-2020 14:03:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/shibpmpw/public_html/website/cms/sristi_page/db.php:8
+Stack trace:
+#0 /home/shibpmpw/public_html/website/cms/sristi_page/add_category.php(7): include_once()
+#1 {main}
+  thrown in /home/shibpmpw/public_html/website/cms/sristi_page/db.php on line 8
+[23-Nov-2020 14:04:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/shibpmpw/public_html/website/admin/sristi_page/db.php on line 6
+[23-Nov-2020 14:04:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/shibpmpw/public_html/website/admin/sristi_page/db.php:8
+Stack trace:
+#0 /home/shibpmpw/public_html/website/admin/sristi_page/add_category.php(7): include_once()
+#1 {main}
+  thrown in /home/shibpmpw/public_html/website/admin/sristi_page/db.php on line 8
+[23-Nov-2020 14:04:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/shibpmpw/public_html/website/admin/sristi_page/db.php on line 6
+[23-Nov-2020 14:04:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/shibpmpw/public_html/website/admin/sristi_page/db.php:8
+Stack trace:
+#0 /home/shibpmpw/public_html/website/admin/sristi_page/add_category.php(7): include_once()
+#1 {main}
+  thrown in /home/shibpmpw/public_html/website/admin/sristi_page/db.php on line 8
+[23-Nov-2020 14:04:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/shibpmpw/public_html/website/admin/sristi_page/db.php on line 6
+[23-Nov-2020 14:04:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/shibpmpw/public_html/website/admin/sristi_page/db.php:8
+Stack trace:
+#0 /home/shibpmpw/public_html/website/admin/sristi_page/add_document.php(6): include()
+#1 {main}
+  thrown in /home/shibpmpw/public_html/website/admin/sristi_page/db.php on line 8
+[23-Nov-2020 14:04:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/shibpmpw/public_html/website/admin/sristi_page/db.php on line 6
+[23-Nov-2020 14:04:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/shibpmpw/public_html/website/admin/sristi_page/db.php:8
+Stack trace:
+#0 /home/shibpmpw/public_html/website/admin/sristi_page/add_project.php(97): include_once()
+#1 {main}
+  thrown in /home/shibpmpw/public_html/website/admin/sristi_page/db.php on line 8
+[25-Nov-2020 14:50:05 UTC] PHP Warning:  move_uploaded_file(https://www.shibpursristi.org/website/admin/sristi_page/uploads11-25-2020_0250pm_googlelogo_color_160x56dp.png): failed to open stream: HTTP wrapper does not support writeable connections in /home/shibpmpw/public_html/website/admin/sristi_page/add_img.php on line 28
+[25-Nov-2020 14:50:05 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpfxVxzz' to 'https://www.shibpursristi.org/website/admin/sristi_page/uploads11-25-2020_0250pm_googlelogo_color_160x56dp.png' in /home/shibpmpw/public_html/website/admin/sristi_page/add_img.php on line 28
+[25-Nov-2020 14:54:51 UTC] PHP Warning:  move_uploaded_file(https://www.shibpursristi.org/website/admin/sristi_page/uploads11-25-2020_0254pm_googlelogo_color_160x56dp.png): failed to open stream: HTTP wrapper does not support writeable connections in /home/shibpmpw/public_html/website/admin/sristi_page/add_img.php on line 28
+[25-Nov-2020 14:54:51 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpu79MaI' to 'https://www.shibpursristi.org/website/admin/sristi_page/uploads11-25-2020_0254pm_googlelogo_color_160x56dp.png' in /home/shibpmpw/public_html/website/admin/sristi_page/add_img.php on line 28
+[25-Nov-2020 14:55:07 UTC] PHP Warning:  move_uploaded_file(https://www.shibpursristi.org/website/admin/sristi_page/uploads11-25-2020_0255pm_googlelogo_color_160x56dp.png): failed to open stream: HTTP wrapper does not support writeable connections in /home/shibpmpw/public_html/website/admin/sristi_page/add_img.php on line 28
+[25-Nov-2020 14:55:07 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpA2gLIa' to 'https://www.shibpursristi.org/website/admin/sristi_page/uploads11-25-2020_0255pm_googlelogo_color_160x56dp.png' in /home/shibpmpw/public_html/website/admin/sristi_page/add_img.php on line 28
+[25-Nov-2020 14:55:14 UTC] PHP Warning:  move_uploaded_file(https://www.shibpursristi.org/website/admin/sristi_page/uploads11-25-2020_0255pm_googlelogo_color_160x56dp.png): failed to open stream: HTTP wrapper does not support writeable connections in /home/shibpmpw/public_html/website/admin/sristi_page/add_img.php on line 28
+[25-Nov-2020 14:55:14 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php6jLl6A' to 'https://www.shibpursristi.org/website/admin/sristi_page/uploads11-25-2020_0255pm_googlelogo_color_160x56dp.png' in /home/shibpmpw/public_html/website/admin/sristi_page/add_img.php on line 28
+[25-Nov-2020 14:55:40 UTC] PHP Warning:  move_uploaded_file(https://www.shibpursristi.org/website/admin/sristi_page/uploads11-25-2020_0255pm_googlelogo_color_160x56dp.png): failed to open stream: HTTP wrapper does not support writeable connections in /home/shibpmpw/public_html/website/admin/sristi_page/add_img.php on line 28
+[25-Nov-2020 14:55:40 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpQU0IKe' to 'https://www.shibpursristi.org/website/admin/sristi_page/uploads11-25-2020_0255pm_googlelogo_color_160x56dp.png' in /home/shibpmpw/public_html/website/admin/sristi_page/add_img.php on line 28
+[25-Nov-2020 15:02:46 UTC] PHP Warning:  move_uploaded_file(https://www.shibpursristi.org/website/admin/sristi_page/uploads11-25-2020_0302pm_googlelogo_color_160x56dp.png): failed to open stream: HTTP wrapper does not support writeable connections in /home/shibpmpw/public_html/website/admin/sristi_page/add_img.php on line 28
+[25-Nov-2020 15:02:46 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpeJVWBQ' to 'https://www.shibpursristi.org/website/admin/sristi_page/uploads11-25-2020_0302pm_googlelogo_color_160x56dp.png' in /home/shibpmpw/public_html/website/admin/sristi_page/add_img.php on line 28
+[25-Nov-2020 15:02:50 UTC] PHP Warning:  move_uploaded_file(https://www.shibpursristi.org/website/admin/sristi_page/uploads11-25-2020_0302pm_googlelogo_color_160x56dp.png): failed to open stream: HTTP wrapper does not support writeable connections in /home/shibpmpw/public_html/website/admin/sristi_page/add_img.php on line 28
+[25-Nov-2020 15:02:50 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpLixtqI' to 'https://www.shibpursristi.org/website/admin/sristi_page/uploads11-25-2020_0302pm_googlelogo_color_160x56dp.png' in /home/shibpmpw/public_html/website/admin/sristi_page/add_img.php on line 28
+[25-Nov-2020 15:03:01 UTC] PHP Warning:  move_uploaded_file(https://www.shibpursristi.org/website/admin/sristi_page/uploads11-25-2020_0303pm_googlelogo_color_160x56dp.png): failed to open stream: HTTP wrapper does not support writeable connections in /home/shibpmpw/public_html/website/admin/sristi_page/add_img.php on line 28
+[25-Nov-2020 15:03:01 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpvN7XWS' to 'https://www.shibpursristi.org/website/admin/sristi_page/uploads11-25-2020_0303pm_googlelogo_color_160x56dp.png' in /home/shibpmpw/public_html/website/admin/sristi_page/add_img.php on line 28

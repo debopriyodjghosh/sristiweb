@@ -14,19 +14,19 @@ include "header.php";
   include_once 'db.php';
   if (isset($_POST['submit'])) {
 
-    $enrollment_no = $_POST['enrollment_no'];
-    echo $enrollment_no;
+    $prj_name = $_POST['prj_name'];
+    #echo $prj_name;
     // Get images from the database SELECT * FROM images ORDER BY id DESC 
-    $query = $conn->query("SELECT * FROM `images` WHERE category = $enrollment_no");
+    $query = $conn->query("SELECT * FROM image_db WHERE prj_name = '$prj_name'");
 
     if ($query->num_rows > 0) {
       $count = 1;
       while ($row = $query->fetch_assoc()) {
 
         //////change in server with https://www.shibpursristi.org/web/uploads/
-        $imageURL = 'C:\xampp\htdocs\Sristi\admin\sristi_page\uploads' . $row["file_name"];
-        $project_name = $row["project_name"];
-        $project_category = $row["project_category"];
+        $imageURL = 'https://www.shibpursristi.org/website/admin/sristi_page/uploads/' . $row["img"];
+        $prj_name = $row["prj_name"];
+        $prj_catagory = $row["prj_catagory"];
 
   ?>
 
@@ -39,18 +39,18 @@ include "header.php";
             </a>
           </div>
         </div>
-        <?php if ($count % 3 == 0) { ?>
-</div>
+        <?php
+        if ($count % 3 == 0) {
+            echo '</div> <div class="row">';
+        }
 
-<div class="row">
-<?php } ?>
-<?php
         $count++;
       }
-    } else { ?>
-<p>No image(s) found...</p>
-<?php }
-  } ?>
+    } else { 
+        echo "<p>No image(s) found...</p>";
+    }
+  }
+        ?>
 
 </div>
 

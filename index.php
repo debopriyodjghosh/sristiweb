@@ -1244,7 +1244,7 @@
     					</div>
     				</div>
     			</div>
-    			<div class="col-md-4 col-sm-6">
+    			<!--<div class="col-md-4 col-sm-6">
     				<div class="single-service-home">
     					<div class="icon-box">
     						<div class="inner-box">
@@ -1285,7 +1285,7 @@
     						<a href="service-details.html">Read More</a>
     					</div>
     				</div>
-    			</div>
+    			</div>-->
     		</div>
     	</div>
     </section>
@@ -1542,7 +1542,21 @@
     				<div class="single-testimonaials">
     					<div class="qoute-box">
     						<i class="qoute">“</i>
+    						
     					</div>
+    					<h3>Doner's Speak</h3>
+    					<span>Patient of Asthama</span><br><br>
+    					<p>Lorem ipsum dolor sit amet, per justo iracundia an. Inani tation tritani mea ut. Mundi scriptorem</p>
+    					<h3>Roberto Carlos</h3>
+    					<span>Patient of Asthama</span>
+    				</div>
+    			</div>
+    			<div class="item">
+    				<div class="single-testimonaials">
+    					<div class="qoute-box">
+    						<i class="qoute">“</i>
+    					</div><h3>Roberto Carlos</h3>
+    					<span>Patient of Asthama</span><br><br>
     					<p>Lorem ipsum dolor sit amet, per justo iracundia an. Inani tation tritani mea ut. Mundi scriptorem</p>
     					<h3>Roberto Carlos</h3>
     					<span>Patient of Asthama</span>
@@ -1553,6 +1567,8 @@
     					<div class="qoute-box">
     						<i class="qoute">“</i>
     					</div>
+    					<h3>Roberto Carlos</h3>
+    					<span>Patient of Asthama</span><br><br>
     					<p>Lorem ipsum dolor sit amet, per justo iracundia an. Inani tation tritani mea ut. Mundi scriptorem</p>
     					<h3>Roberto Carlos</h3>
     					<span>Patient of Asthama</span>
@@ -1563,6 +1579,8 @@
     					<div class="qoute-box">
     						<i class="qoute">“</i>
     					</div>
+    					<h3>Roberto Carlos</h3>
+    					<span>Patient of Asthama</span><br><br>
     					<p>Lorem ipsum dolor sit amet, per justo iracundia an. Inani tation tritani mea ut. Mundi scriptorem</p>
     					<h3>Roberto Carlos</h3>
     					<span>Patient of Asthama</span>
@@ -1573,6 +1591,8 @@
     					<div class="qoute-box">
     						<i class="qoute">“</i>
     					</div>
+    					<h3>Roberto Carlos</h3>
+    					<span>Patient of Asthama</span><br><br>
     					<p>Lorem ipsum dolor sit amet, per justo iracundia an. Inani tation tritani mea ut. Mundi scriptorem</p>
     					<h3>Roberto Carlos</h3>
     					<span>Patient of Asthama</span>
@@ -1583,6 +1603,8 @@
     					<div class="qoute-box">
     						<i class="qoute">“</i>
     					</div>
+    					<h3>Roberto Carlos</h3>
+    					<span>Patient of Asthama</span><br><br>
     					<p>Lorem ipsum dolor sit amet, per justo iracundia an. Inani tation tritani mea ut. Mundi scriptorem</p>
     					<h3>Roberto Carlos</h3>
     					<span>Patient of Asthama</span>
@@ -1593,6 +1615,8 @@
     					<div class="qoute-box">
     						<i class="qoute">“</i>
     					</div>
+    					<h3>Roberto Carlos</h3>
+    					<span>Patient of Asthama</span><br><br>
     					<p>Lorem ipsum dolor sit amet, per justo iracundia an. Inani tation tritani mea ut. Mundi scriptorem</p>
     					<h3>Roberto Carlos</h3>
     					<span>Patient of Asthama</span>
@@ -1603,6 +1627,8 @@
     					<div class="qoute-box">
     						<i class="qoute">“</i>
     					</div>
+    					<h3>Roberto Carlos</h3>
+    					<span>Patient of Asthama</span><br><br>
     					<p>Lorem ipsum dolor sit amet, per justo iracundia an. Inani tation tritani mea ut. Mundi scriptorem</p>
     					<h3>Roberto Carlos</h3>
     					<span>Patient of Asthama</span>
@@ -1613,6 +1639,8 @@
     					<div class="qoute-box">
     						<i class="qoute">“</i>
     					</div>
+    					<h3>Roberto Carlos</h3>
+    					<span>Patient of Asthama</span><br><br>
     					<p>Lorem ipsum dolor sit amet, per justo iracundia an. Inani tation tritani mea ut. Mundi scriptorem</p>
     					<h3>Roberto Carlos</h3>
     					<span>Patient of Asthama</span>
@@ -1623,6 +1651,8 @@
     					<div class="qoute-box">
     						<i class="qoute">“</i>
     					</div>
+    					<h3>Roberto Carlos</h3>
+    					<span>Patient of Asthama</span><br><br>
     					<p>Lorem ipsum dolor sit amet, per justo iracundia an. Inani tation tritani mea ut. Mundi scriptorem</p>
     					<h3>Roberto Carlos</h3>
     					<span>Patient of Asthama</span>
@@ -1633,6 +1663,8 @@
     					<div class="qoute-box">
     						<i class="qoute">“</i>
     					</div>
+    					<h3>Roberto Carlos</h3>
+    					<span>Patient of Asthama</span><br><br>
     					<p>Lorem ipsum dolor sit amet, per justo iracundia an. Inani tation tritani mea ut. Mundi scriptorem</p>
     					<h3>Roberto Carlos</h3>
     					<span>Patient of Asthama</span>
@@ -1643,16 +1675,8 @@
     					<div class="qoute-box">
     						<i class="qoute">“</i>
     					</div>
-    					<p>Lorem ipsum dolor sit amet, per justo iracundia an. Inani tation tritani mea ut. Mundi scriptorem</p>
     					<h3>Roberto Carlos</h3>
-    					<span>Patient of Asthama</span>
-    				</div>
-    			</div>
-    			<div class="item">
-    				<div class="single-testimonaials">
-    					<div class="qoute-box">
-    						<i class="qoute">“</i>
-    					</div>
+    					<span>Patient of Asthama</span><br><br>
     					<p>Lorem ipsum dolor sit amet, per justo iracundia an. Inani tation tritani mea ut. Mundi scriptorem</p>
     					<h3>Roberto Carlos</h3>
     					<span>Patient of Asthama</span>
