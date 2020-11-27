@@ -282,23 +282,9 @@ require_once('config.php');
 							<a href="#">Login</a>
 						</li>
 
-<<<<<<< HEAD
 
 						<li><a href="contact.php">Contact</a></li>
 
-=======
-						<!--<li class="dropdown">
-							<a href="#">Blog</a>
-							<ul class="submenu">
-								<li><a href="blog-style-one.html">Blog Style One</a></li>
-								<li><a href="blog-style-two.html">Blog Style Two</a></li>
-								<li><a href="blog-details.html">Blog Details</a></li>
-							</ul>
-						</li>-->
-
-						<li><a href="contact.html">Contact</a></li>
-						
->>>>>>> 62f1108490df466ddfc5161d0b424b1d8a64d036
 					</ul>
 
 				</div>
