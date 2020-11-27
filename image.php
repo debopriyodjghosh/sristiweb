@@ -2,12 +2,6 @@
 include "header.php";
 ?>
 
-
-
-
-
-
-
 <div class="row">
   <?php
   // Include the database configuration file
