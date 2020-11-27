@@ -18,7 +18,9 @@
             	    $query = $conn->query("SELECT * FROM `images` WHERE project_category = 's13'");
             	    if($query->num_rows > 0){
                         while($row = $query->fetch_assoc()){
-                            $imageURL = 'https://www.shibpursristi.org/web/uploads/'.$row["file_name"];
+
+							////change in server with https://www.shibpursristi.org/web/uploads/
+                            $imageURL = 'C:\xampp\htdocs\Sristi\admin\sristi_page\uploads'.$row["file_name"];
                             
             	    ?>
 					

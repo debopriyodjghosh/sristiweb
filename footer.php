@@ -4,7 +4,7 @@
 				<div class="col-md-3 col-sm-6">
 					<div class="footer-widget about-widget">
 						<a href="#">
-							<img src="img/resources/footer-logo.png" alt="Awesome Image"/>
+							<img src="img/resources/logo.png" alt="Awesome Image"/>
 						</a>
 						<p>Lorem ipsum dolor sit amet, eu me evert laboramus, iudico </p>
 						<ul class="contact">
@@ -25,13 +25,12 @@
 					<div class="footer-widget quick-links">
 						<h3 class="title">Pages</h3>
 						<ul>
-							<li><a href="about.html">About Us</a></li>
-							<li><a href="causes-grid.html">Causes</a></li>
-							<li><a href="events-grid.html">Events</a></li>
-							<li><a href="faq.html">Faq</a></li>
-							<li><a href="blog-style-two.html">Archives</a></li>
-							<li><a href="blog-style-one.html">News</a></li>
-							<li><a href="contact.html">Contact</a></li>
+							<li><a href="aindex.php">Home</a></li>
+							<li><a href="event.php">Events</a></li>
+							<li><a href="gallery.php">Gallery</a></li>
+							<li><a href="about.php">About Us</a></li>
+							<li><a href="membership.php">Join Us</a></li>
+							<li><a href="contact.php">Contact</a></li>
 						</ul>
 					</div>
 				</div>
@@ -60,7 +59,7 @@
 								<li>
 									<div class="footer-widget contact-widget">
 										<h3 class="title">Signup for Newsletter</h3>
-											<form action="http://hasan.themexlab.com/new/charity-home-html/inc/sendemail.php" class="contact-form" id="footer-cf">
+											<form action="" class="contact-form" id="footer-cf">
 											<input type="text" name="email" placeholder="Email Address" >
 											<button type="submit">Signup</button>	
 									</div>
@@ -73,7 +72,7 @@
 				<div class="col-md-4 col-sm-6">
 					<div class="footer-widget contact-widget">
 						<h3 class="title">Contact Form</h3>
-						<form action="http://hasan.themexlab.com/new/charity-home-html/inc/sendemail.php" class="contact-form" id="footer-cf">
+						<form action="" class="contact-form" id="footer-cf">
 							<input type="text" name="name"  placeholder="Full Name">
 							<input type="text" name="email" placeholder="Email Address" >
 							<textarea name="message" placeholder="Your Message"></textarea>
@@ -88,7 +87,7 @@
 
 	<section class="footer-bottom">
 		<div class="container text-center">
-			<p>Theme Created By <a href="#">TEMPLATE PATH</a> with love</p>
+			<p> @ <a href="#">WEB Team</a> Shibpur Sristi</p>
 		</div>
 	</section>
 
@@ -148,5 +147,4 @@
 
 </body>
 
-<!-- Mirrored from hasan.themexlab.com/new/charity-home-html/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 22 Mar 2020 15:53:04 GMT -->
 </html>
