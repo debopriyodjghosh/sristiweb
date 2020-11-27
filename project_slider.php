@@ -15,7 +15,7 @@
 					
 					<?php
                     include_once 'db.php'; 
-            	    $query = $conn->query("SELECT * FROM `images` WHERE project_category = '1'");
+            	    $query = $conn->query("SELECT * FROM `images` WHERE project_category = 's13'");
             	    if($query->num_rows > 0){
                         while($row = $query->fetch_assoc()){
 

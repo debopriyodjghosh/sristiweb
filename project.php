@@ -8,7 +8,6 @@
 		<div class="container">
 		        <?php
                     include_once 'db.php'; 
-<<<<<<< HEAD
             	    $query = $conn->query("SELECT * FROM project_details ORDER BY uploaded_on DESC");
             	    if($query->num_rows > 0){
                         while($row = $query->fetch_assoc()){
@@ -16,15 +15,6 @@
 							//change in server with https://www.shibpursristi.org/website/admin/sristi_page/project_image
                             $imageURL = 'https://www.shibpursristi.org/website/admin/sristi_page/project_image/'.$row["thumb_image"];
                                 $prj_date = $row["prj_date"];
-=======
-            	    $query = $conn->query("SELECT * FROM project ORDER BY uploaded_on DESC");
-            	    if($query->num_rows > 0){
-                        while($row = $query->fetch_assoc()){
-
-							//change in server with https://www.shibpursristi.org/web/project_image/
-                            $imageURL = 'C:\xampp\htdocs\Sristi\admin\sristi_page\project_image'.$row["file_name"];
-                                $date = $row["date"];
->>>>>>> acf92460ae7e8b63e68469236935ab5572f0f2c1
                                 $place = $row["place"];
                                 $prj_name = $row["prj_name"];
                                #$prj_category = $row["prj_category"];
