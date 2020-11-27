@@ -3498,3 +3498,28 @@ img {
 #gender-option label{
 	margin-top: 5px;
 }
+
+.magazine-card {
+	display: flex;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding-right: 20px;
+}
+
+.magazine-card h5 {
+	font-weight: 600;
+    color: black;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+    #current_mag {
+		height: 65vh !important;
+    	width: 92vw !important;
+	}
+
+	#download-curr {
+		margin: 20px auto !important;
+		text-align: center !important;
+		float: none !important;
+	}
+}
