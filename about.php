@@ -30,6 +30,7 @@
 								<span class="inner"></span>
 							</span>
 						</div>
+<<<<<<< HEAD
 						<h3>‘The best way to find yourself is to serve others’</h3>
 						<br>
 						<p>Shibpur Sristi is an organization that we few students had started way back in 2013. We aspire to do social work with a view to empower the under-privileged. Moreover, we already have done projects regarding child education, clothes distribution and awareness campaigns with the sole motive of making a difference in society. </p>
@@ -41,6 +42,19 @@
 				</div>
 				<div class="col-md-7 hidden-md text-right">
 					<img src="img/resources/about-cover.jpg" alt="Awesome Image"/>
+=======
+						<h3>We Provide Worldwide Charity <br> Service Since 1978</h3>
+						<br>
+						<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem loremIpsum has been the industry's </p>
+						<br>
+						<p>since the 1500s, when an un known printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting,</p>
+						<br>
+						<a href="about.html" class="thm-btn">Read More</a>
+					</div>
+				</div>
+				<div class="col-md-7 hidden-md text-right">
+					<img src="img/resources/about-1.jpg" alt="Awesome Image"/>
+>>>>>>> Amit
 				</div>
 			</div>
 		</div>
@@ -63,10 +77,16 @@
 							</div>
 						</div>
 						<div class="content">
+<<<<<<< HEAD
 							<h3>To Fill a Basic Need
 </h3>
 							<p>To Provide basic materials like food and clothes to the marginalised section of our country</p>
 							
+=======
+							<h3>Charity For Education</h3>
+							<p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p>
+							<a href="service-details.html">Read More</a>
+>>>>>>> Amit
 						</div>
 					</div>
 				</div>
@@ -78,10 +98,16 @@
 							</div>
 						</div>
 						<div class="content">
+<<<<<<< HEAD
 							<h3>To Bring a Smile
 </h3>
 							<p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p>
 							
+=======
+							<h3>Feed for hungry child</h3>
+							<p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p>
+							<a href="service-details.html">Read More</a>
+>>>>>>> Amit
 						</div>
 					</div>
 				</div>
@@ -93,9 +119,15 @@
 							</div>
 						</div>
 						<div class="content">
+<<<<<<< HEAD
 							<h3>For safety and prosperity</h3>
 							<p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p>
 							
+=======
+							<h3>Home for homeless</h3>
+							<p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p>
+							<a href="service-details.html">Read More</a>
+>>>>>>> Amit
 						</div>
 					</div>
 				</div>
@@ -107,12 +139,18 @@
 							</div>
 						</div>
 						<div class="content">
+<<<<<<< HEAD
 							<h3>Vision</h3>
 							<p>Shibpur Sristi envisions is to see where underprivileged people are living in a friendly environment and having proper education , access to adequate food and are having a proper shelter. We also have a vision to aware them of various harmful diseases.
 
 
  </p>
 						
+=======
+							<h3>Feed for hungry child</h3>
+							<p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p>
+							<a href="service-details.html">Read More</a>
+>>>>>>> Amit
 						</div>
 					</div>
 				</div>
@@ -124,11 +162,17 @@
 							</div>
 						</div>
 						<div class="content">
+<<<<<<< HEAD
 							<h3>Goal</h3>
 							<p>Our goal is to deliver high impact, cost effective, & culturally competent capacity building programs to unprivileged people in particular to children.
 
 </p>
 							
+=======
+							<h3>Home for homeless</h3>
+							<p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p>
+							<a href="service-details.html">Read More</a>
+>>>>>>> Amit
 						</div>
 					</div>
 				</div>
@@ -140,9 +184,15 @@
 							</div>
 						</div>
 						<div class="content">
+<<<<<<< HEAD
 							<h3>Mission Statement</h3>
 							<p>Shibpur Sristi is formed by group of youth activists, who come together to improve and upgrade poor communities in both urban and rural through community based advocacy and services in areas of Education, Clothes, Food as well as Environment. </p>
 							
+=======
+							<h3>Charity For Education</h3>
+							<p>There are many variations of lorem <br>passagei of Lorem Ipsum available <br> but the majority have </p>
+							<a href="service-details.html">Read More</a>
+>>>>>>> Amit
 						</div>
 					</div>
 				</div>
@@ -159,7 +209,11 @@
 			<div class="row">
 				<div class="col-lg-6 col-md-12">
 					<div class="sec-title style-two">
+<<<<<<< HEAD
 						<h2>Historical Background</h2>
+=======
+						<h2>Why Choose us?</h2>
+>>>>>>> Amit
 						<span class="decor">
 							<span class="inner"></span>
 						</span>
@@ -171,12 +225,21 @@
 									<span class="decor">
 										<span class="inner"></span>
 									</span>
+<<<<<<< HEAD
 									<span class="text">How We started </span>
 								</h4>
 							</div>
 							<div class="accrodion-content">
 								<p>We actually came up with the name of our Organization in 2013. But back then it was merely an initiative taken by us when we were associated with the local club. It was the name of the cultural program that we hosted in our neighborhoods. It was an attempt on our part to express our gratitude to the very neighborhoods we come from and to show a sense of solidarity amongst ourselves.  </p>
 								<p>What started merely as cultural event has today turned into something entirely different, if I may put it this way. We have realized that as human beings we are morally obligated to help another fellow human being and to ensure the well being of people who are downtrodden, physically challenged etc. Therefore this expansion of sorts in regards of our Organization is overwhelming.</p>
+=======
+									<span class="text">Worldwide charity programs </span>
+								</h4>
+							</div>
+							<div class="accrodion-content">
+								<p>Lorem Ipsum is simply du my text of the pritin industry. Lorm Ipsum hasbeen the industry's standardsdummy text eversince the 1500s,  when an unknown printer</p>
+								<p>took a galley of type and scramble it to make type specimen book. It has survived not only five centurie, but also the leap into</p>
+>>>>>>> Amit
 							</div>
 						</div>
 						<div class="accrodion ">
@@ -185,12 +248,21 @@
 									<span class="decor">
 										<span class="inner"></span>
 									</span>
+<<<<<<< HEAD
 									<span class="text">Initiatives and Priority Programs </span>
 								</h4>
 							</div>
 							<div class="accrodion-content">
 								<p>Shibpur Sristi undertook several initiatives under it’s banner. Such as Collage Workshops , Awareness Programs and drawing events to promote art and culture . We also flagged off few priority programs.“Shikshan” and “Paridhan” are of the highest priority among them.</p>
 							
+=======
+									<span class="text">Leading volunteer groups </span>
+								</h4>
+							</div>
+							<div class="accrodion-content">
+								<p>Lorem Ipsum is simply du my text of the pritin industry. Lorm Ipsum hasbeen the industry's standardsdummy text eversince the 1500s,  when an unknown printer</p>
+								<p>took a galley of type and scramble it to make type specimen book. It has survived not only five centurie, but also the leap into</p>
+>>>>>>> Amit
 							</div>
 						</div>
 						<div class="accrodion ">
@@ -199,6 +271,7 @@
 									<span class="decor">
 										<span class="inner"></span>
 									</span>
+<<<<<<< HEAD
 									<span class="text">Shikshan </span>
 								</h4>
 							</div>
@@ -206,6 +279,14 @@
 								<p>When earning a livelihood and taking care of the members of the family becomes a primary matter of concern in one’s life, education stands a little or, very often, no chance of pursuance. For the underprivileged people in India, education is perceived as a high-priced luxury, and this negative outlook continues on with every new generation. </p>
 								<p>Looking at this staggering situation we had decided to start a small initiative called “SHIKSHAN”.”Shikshan” doesn’t only mean ‘Teaching’; it also says ‘education’. Our basic motive is to visit rural schools on a regular basis . We will distribute educational materials (in terms of gifts) to underprivileged students studying in primary schools 
 								and also motivate them by taking few interactive classes.</p>
+=======
+									<span class="text">Charity programs for children </span>
+								</h4>
+							</div>
+							<div class="accrodion-content">
+								<p>Lorem Ipsum is simply du my text of the pritin industry. Lorm Ipsum hasbeen the industry's standardsdummy text eversince the 1500s,  when an unknown printer</p>
+								<p>took a galley of type and scramble it to make type specimen book. It has survived not only five centurie, but also the leap into</p>
+>>>>>>> Amit
 							</div>
 						</div>
 						<div class="accrodion ">
@@ -214,12 +295,21 @@
 									<span class="decor">
 										<span class="inner"></span>
 									</span>
+<<<<<<< HEAD
 									<span class="text">Paridhan</span>
 								</h4>
 							</div>
 							<div class="accrodion-content">
 								<p>Clothes are one of the basic needs of an human being. According to Maslaw’s theory clothing is one of primary needs of an human. But lack of money force people especially children to live in less clothes or naked in harsh winter. Considering the situation we decided to start a small clothes drive. </p>
 								<p>In 2015 January winter flagged off our first clothes drive near Rashbehari ,where we distributed jackets among 90 children who resided at Roadside Basti. After that we did a large clothes drive on Puja 2015 serving upto 120 unprivileged children at various parts of Kolkata. Since then we have undertaken 5 clothes drive .</p>
+=======
+									<span class="text">Online donation seystem with different method</span>
+								</h4>
+							</div>
+							<div class="accrodion-content">
+								<p>Lorem Ipsum is simply du my text of the pritin industry. Lorm Ipsum hasbeen the industry's standardsdummy text eversince the 1500s,  when an unknown printer</p>
+								<p>took a galley of type and scramble it to make type specimen book. It has survived not only five centurie, but also the leap into</p>
+>>>>>>> Amit
 							</div>
 						</div>
 					</div>
@@ -242,7 +332,11 @@
 	</section>
 
 
+<<<<<<< HEAD
 	<!--<section class="fact-counter-wrapper sec-padding parallax-section">
+=======
+	<section class="fact-counter-wrapper sec-padding parallax-section">
+>>>>>>> Amit
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-md-4">
@@ -274,14 +368,23 @@
 				</div>
 			</div>
 		</div>
+<<<<<<< HEAD
 	</section>-->
+=======
+	</section>
+>>>>>>> Amit
 
 
 	<section class="sec-padding meet-Volunteer">
 		<div class="container">
 			<div class="sec-title text-left">
+<<<<<<< HEAD
 				<h2>Meet Our Team</h2>
 				<p>Find us on social media also</p>
+=======
+				<h2>Meet Our Volunteers</h2>
+				<p>Lorem ipsum is a dummy text it will use for subtitle here</p>
+>>>>>>> Amit
 				<span class="decor"><span class="inner"></span></span>
 			</div>
 			<div class="clearfix">
@@ -476,9 +579,144 @@
 	</section>
 
 
+<<<<<<< HEAD
 	<?php
 	include 'testimonial.php';
 	?>
+=======
+	<section class="sec-padding testimonials-wrapper">
+		<div class="container">
+			<div class="sec-title colored text-center">
+				<h2>Testimonials</h2>
+				<span class="decor">
+					<span class="inner"></span>
+				</span>
+			</div>
+			<div class="testimonaials-carousel owl-carousel owl-theme">
+				<div class="item">
+					<div class="single-testimonaials">
+						<div class="qoute-box">
+							<i class="qoute">“</i>
+						</div>
+						<p>Lorem ipsum dolor sit amet, per justo iracundia an. Inani tation tritani mea ut. Mundi scriptorem</p>
+						<h3>Roberto Carlos</h3>
+						<span>Patient of Asthama</span>
+					</div>
+				</div>
+				<div class="item">
+					<div class="single-testimonaials">
+						<div class="qoute-box">
+							<i class="qoute">“</i>
+						</div>
+						<p>Lorem ipsum dolor sit amet, per justo iracundia an. Inani tation tritani mea ut. Mundi scriptorem</p>
+						<h3>Roberto Carlos</h3>
+						<span>Patient of Asthama</span>
+					</div>
+				</div>
+				<div class="item">
+					<div class="single-testimonaials">
+						<div class="qoute-box">
+							<i class="qoute">“</i>
+						</div>
+						<p>Lorem ipsum dolor sit amet, per justo iracundia an. Inani tation tritani mea ut. Mundi scriptorem</p>
+						<h3>Roberto Carlos</h3>
+						<span>Patient of Asthama</span>
+					</div>
+				</div>
+				<div class="item">
+					<div class="single-testimonaials">
+						<div class="qoute-box">
+							<i class="qoute">“</i>
+						</div>
+						<p>Lorem ipsum dolor sit amet, per justo iracundia an. Inani tation tritani mea ut. Mundi scriptorem</p>
+						<h3>Roberto Carlos</h3>
+						<span>Patient of Asthama</span>
+					</div>
+				</div>
+				<div class="item">
+					<div class="single-testimonaials">
+						<div class="qoute-box">
+							<i class="qoute">“</i>
+						</div>
+						<p>Lorem ipsum dolor sit amet, per justo iracundia an. Inani tation tritani mea ut. Mundi scriptorem</p>
+						<h3>Roberto Carlos</h3>
+						<span>Patient of Asthama</span>
+					</div>
+				</div>
+				<div class="item">
+					<div class="single-testimonaials">
+						<div class="qoute-box">
+							<i class="qoute">“</i>
+						</div>
+						<p>Lorem ipsum dolor sit amet, per justo iracundia an. Inani tation tritani mea ut. Mundi scriptorem</p>
+						<h3>Roberto Carlos</h3>
+						<span>Patient of Asthama</span>
+					</div>
+				</div>
+				<div class="item">
+					<div class="single-testimonaials">
+						<div class="qoute-box">
+							<i class="qoute">“</i>
+						</div>
+						<p>Lorem ipsum dolor sit amet, per justo iracundia an. Inani tation tritani mea ut. Mundi scriptorem</p>
+						<h3>Roberto Carlos</h3>
+						<span>Patient of Asthama</span>
+					</div>
+				</div>
+				<div class="item">
+					<div class="single-testimonaials">
+						<div class="qoute-box">
+							<i class="qoute">“</i>
+						</div>
+						<p>Lorem ipsum dolor sit amet, per justo iracundia an. Inani tation tritani mea ut. Mundi scriptorem</p>
+						<h3>Roberto Carlos</h3>
+						<span>Patient of Asthama</span>
+					</div>
+				</div>
+				<div class="item">
+					<div class="single-testimonaials">
+						<div class="qoute-box">
+							<i class="qoute">“</i>
+						</div>
+						<p>Lorem ipsum dolor sit amet, per justo iracundia an. Inani tation tritani mea ut. Mundi scriptorem</p>
+						<h3>Roberto Carlos</h3>
+						<span>Patient of Asthama</span>
+					</div>
+				</div>
+				<div class="item">
+					<div class="single-testimonaials">
+						<div class="qoute-box">
+							<i class="qoute">“</i>
+						</div>
+						<p>Lorem ipsum dolor sit amet, per justo iracundia an. Inani tation tritani mea ut. Mundi scriptorem</p>
+						<h3>Roberto Carlos</h3>
+						<span>Patient of Asthama</span>
+					</div>
+				</div>
+				<div class="item">
+					<div class="single-testimonaials">
+						<div class="qoute-box">
+							<i class="qoute">“</i>
+						</div>
+						<p>Lorem ipsum dolor sit amet, per justo iracundia an. Inani tation tritani mea ut. Mundi scriptorem</p>
+						<h3>Roberto Carlos</h3>
+						<span>Patient of Asthama</span>
+					</div>
+				</div>
+				<div class="item">
+					<div class="single-testimonaials">
+						<div class="qoute-box">
+							<i class="qoute">“</i>
+						</div>
+						<p>Lorem ipsum dolor sit amet, per justo iracundia an. Inani tation tritani mea ut. Mundi scriptorem</p>
+						<h3>Roberto Carlos</h3>
+						<span>Patient of Asthama</span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+>>>>>>> Amit
 
 
 

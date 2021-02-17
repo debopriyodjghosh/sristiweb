@@ -6,19 +6,36 @@
 			<div class="sec-title text-center">
 				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been <br> the industry's standard dummy text ever since the 1500s, when an unknownto </p>
 			</div>
+<<<<<<< HEAD
 			<div class="row">
 				<div class="col-md-8">
 					<h2>Contact Form</h2>
 					<form action="mailcontactus.php" class="contact-form row" id="contact-page-contact-form">
+=======
+			<div class="google-map" id="contact-page-google-map" data-icon-path="img/resources/map-marker.png" data-map-lat="-37.812802" data-map-lng="144.956981" data-map-zoom="10" data-map-title="Envato HQ"></div>
+			<div class="row">
+				<div class="col-md-8">
+					<h2>Contact Form</h2>
+					<form action="http://hasan.themexlab.com/new/charity-home-html/inc/sendemail.php" class="contact-form row" id="contact-page-contact-form">
+>>>>>>> Amit
 						<div class="col-md-6">
 							<input type="text" name="name" placeholder="Name">
 							<input type="text" name="email" placeholder="Email">
 							<input type="text" name="phone" placeholder="Phone">
+<<<<<<< HEAD
 								</div>
 						<div class="col-md-6">
 							<textarea name="message" placeholder="Message" cols="30" rows="10"></textarea>
 						</div>
 						<div class="col-md-12"><button class="thm-btn" type="submit"id="submitContact">Send</button></div>
+=======
+							
+						</div>
+						<div class="col-md-6">
+							<textarea name="message" placeholder="Message" cols="30" rows="10"></textarea>
+						</div>
+						<div class="col-md-12"><button class="thm-btn" type="submit">Send</button></div>
+>>>>>>> Amit
 					</form>
 				</div>
 				<div class="col-md-4">
@@ -60,9 +77,12 @@
 					</ul>
 				</div>
 			</div>
+<<<<<<< HEAD
 			<p>&nbsp;</p>
 			<div class="google-map" id="contact-page-google-map"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1971.6971011540918!2d88.31937729681827!3d22.57803410782889!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a027826d9182413%3A0x858142bdf4e77ac1!2sShibpur%20Sristi!5e0!3m2!1sen!2sin!4v1612453843508!5m2!1sen!2sin" width="100%" height="450" frameborder="0" allowfullscreen></iframe></div>
 			
+=======
+>>>>>>> Amit
 		</div>
 	</section>
 
@@ -202,8 +222,13 @@
 					</div>
 					<h2>Just call for emergency service</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam quaerat atque, dolore. Amido ipsum dolor sit amet, consectetur adipisicing elit. Numquam quaerat atque, dolore.Lorem ipsum dolor sit amet, consectetur.</p>
+<<<<<<< HEAD
 					<a href="tel:+918820328618" class="thm-btn">Call Now</a>
                     <a href="membership.php" class="thm-btn inverse">Join Us</a>
+=======
+					<a href="#" class="thm-btn">Call Now</a>
+                    <a href="#" class="thm-btn inverse">Contact Us</a>
+>>>>>>> Amit
 				</div>
 			</div>
 		</div>
