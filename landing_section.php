@@ -1,22 +1,22 @@
-<section class="overlay-white sec-padding parallax-section">
+<section class="overlay-black sec-padding parallax-section">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 promote-project text-center">
-					<h3>Save Children From Hunger</h3>
+					<h3 style="color: white;">Save Children From Hunger</h3>
 					<div class="sec-title colored text-center">
 						<span class="decor">
 							<span class="inner"></span>
 						</span>
 					</div>
-					<h2>Became a part of the world lorem ipsum</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam quaerat atque, dolore. Amido ipsum dolor sit amet, consectetur adipisicing elit. Numquam quaerat atque, dolore.Lorem ipsum dolor sit amet, consectetur.</p>
-					<a href="https://razorpay.com/payment-button/pl_Fccy7n81nUQJSy/view/?utm_source=payment_button&utm_medium=button&utm_campaign=payment_button" class="thm-btn">Donate Now</a>
-                    <a href="#" class="thm-btn inverse">Read More</a>
+					<h2 style="color: white;">Giving little kids, coming from rural and underprivileged sections a reason to smile.</h2>
+					<p style="color: white;">Every year, we look forward to raising the bar very high and this year is not different. With your contribution and best wishes, we were able to execute “Mission 500” successfully in 2019.So without any delay, contribute and help us put a smile on those little faces.Join us in our endeavour today!</p>
+					<a href="donate.php" class="thm-btn">Donate Now</a>
+                    <a href="paridhan.php" class="thm-btn inverse">Read More</a>
 				</div>
 			</div>
 		</div>
 	</section>
-	<section class="overlay-white sec-padding parallax-section event-feature pb_60">
+	<!--<section class="overlay-white sec-padding parallax-section event-feature pb_60">
 		<div class="container">
 			<div class="row">
 	          <div class="col-sm-12">
@@ -65,4 +65,4 @@
 	          </div>
 	        </div>
 		</div>
-	</section>
+	</section>-->

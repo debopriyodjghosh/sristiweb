@@ -31,14 +31,37 @@ if (!$_ADMIN && basename($_SERVER["SCRIPT_FILENAME"], '.php')!="login") {
           Admin Panel
         </a>
        
+<<<<<<< HEAD
+		<!--<a href="sristi_page/add_category.php">
+          <span class="ico">&#9787;</span>
+          Add Category
+        </a>-->
+=======
 		<a href="sristi_page/add_category.php">
           <span class="ico">&#9787;</span>
           Add Category
         </a>
+>>>>>>> Amit
 		<a href="sristi_page/add_project.php">
           <span class="ico">&#9787;</span>
           Add Project
         </a>
+<<<<<<< HEAD
+		<!--<a href="sristi_page/add_document.php">
+          <span class="ico">&#9787;</span>
+          Upload Document
+        </a>-->
+		<a href="sristi_page/add_image.php">
+          <span class="ico">&#9787;</span>
+          Upload Image
+        </a>
+		<!-- <a href="users.php">
+          <span class="ico">&#9787;</span>
+          Manage Users
+        </a>-->
+      
+	   <a href="www.shibpursristi.org/website">
+=======
 		<a href="sristi_page/add_document.php">
           <span class="ico">&#9787;</span>
           Upload Document
@@ -53,6 +76,7 @@ if (!$_ADMIN && basename($_SERVER["SCRIPT_FILENAME"], '.php')!="login") {
         </a>
       
 	   <a href="www.shibpursristi.org">
+>>>>>>> Amit
 		<span class="ico">&#9788;</span>
 			View Website
 		</a>

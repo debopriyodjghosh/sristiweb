@@ -1,5 +1,5 @@
 /***************************************************************************************************************
-||||||||||||||||||||||||||||       MASTER STYLESHEET FOR CHARITY HOME          ||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||       MASTER STYLESHEET         ||||||||||||||||||||||||||||||||||||
 ****************************************************************************************************************
 ||||||||||||||||||||||||||||              TABLE OF CONTENT                  ||||||||||||||||||||||||||||||||||||
 ****************************************************************************************************************
@@ -71,7 +71,7 @@
 body {
 	font-family: 'Poppins', sans-serif;
 	font-size: 14px;
-	color: #9C9C9C;
+	color: #464444;
 }
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Raleway', sans-serif;	
@@ -135,7 +135,7 @@ img {
 	padding: 8px 15px !important;
 }
 .sec-padding {
-	padding: 90px 0;
+	padding: 40px 0;
 }
 
 .sec-title {
@@ -363,7 +363,7 @@ img {
 
 .top-bar .left-text p {
 	font-size: 13px;
-	color: #B6B6B6;	
+	color: #000;	
 	margin: 0;
 	line-height: 48px;
 }
@@ -432,6 +432,15 @@ img {
 	margin: 0;
 	margin-bottom: 5px;
 }
+.single-header-info .content h4 {
+	font-size: 15px;
+	
+	color: #262f36;
+	font-family: 'Helvetica', sans-serif;
+	font-weight: 500;
+	margin: 0;
+	margin-bottom: 5px;
+}
 .single-header-info .content p {
 	font-size: 13px;
 	margin: 0;
@@ -457,6 +466,7 @@ img {
 .mainmenu-area {
 	background: #262F36;
 	border-bottom: 4px solid #167cbc;
+	padding: 1rem 0 0.5rem 0;
 }
 .mainmenu-area.stricky-fixed {
 	position: fixed;
@@ -733,7 +743,7 @@ img {
 .single-call-to-action {
 	position: relative;
 	text-align: center;
-	min-height: 250px;
+	min-height: 200px;
 	display: -webkit-flex;
 	display: -moz-flex;
 	display: -ms-flex;
@@ -771,7 +781,7 @@ img {
 .single-call-to-action .content-box {
 	width: 65%;
 	text-align: left;
-	padding-left: 15px;
+	padding: 0 15px;
 }
 .single-call-to-action .content-box h3 {
 	font-size: 24px;
@@ -833,7 +843,7 @@ img {
 }
 .event .event-title a {
 	color: #000000;
-	text-transform: uppercase;	
+	font-family: 'Helvetica', sans-serif;	
 	transition: all .3s ease;
 	font-weight: 600;
 }
@@ -1174,6 +1184,7 @@ img {
 	background: url(../img/resources/fact-counter-bg.html) center center no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
+	background-color: #262F36;
 }
 .fact-counter-wrapper:before {
 	position: absolute;
@@ -1182,9 +1193,27 @@ img {
 	right: 0;
 	bottom: 0;
 	content: '';
-	background: #167cbc;
-	opacity: .95;
+	background: #262F36 !important;
 }
+
+.overlay-black {
+    background: url(../img/resources/testi-bg.jpg) center center no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+    position: relative;
+}
+
+.overlay-black:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #000;
+    opacity: .72;
+}
+
 .fact-counter-wrapper h2 {
 	font-size: 36px;
 	line-height: 42px;
@@ -2220,7 +2249,7 @@ img {
 .contact-content .contact-form input {
 	width: 100%;
 	height: 60px;
-	border: 1px solid #F0F0F0;
+	border: 1px solid #7d7a7a;
 	outline: none;
 	padding-left: 20px;
 	line-height: 58px;
@@ -3463,7 +3492,7 @@ img {
 
 
 .razorpay-payment-button {
-	background-color: white !important;
+	/*background-color: white !important;*/
 	padding: 10px 35px !important;
 }
 
@@ -3509,6 +3538,58 @@ img {
 .magazine-card h5 {
 	font-weight: 600;
     color: black;
+}
+
+#youtube-video {
+	width: 40vw;
+	margin-top: 5rem;
+}
+
+.closeNav {
+    margin: 1rem;
+    position: relative;
+    text-align: right;
+    float: right;
+}
+
+.closeNav i {
+    font-size: 2rem;
+    border: 1px solid;
+    padding: 0.5rem 0.75rem;
+    border-radius: 50px;
+}
+
+
+
+#donate-btn {
+    text-align: center;
+}
+
+@media (min-width: 769px) {
+	#donate-btn {
+        margin-top: 5%;
+    }
+}
+
+@media (max-width: 768px) {
+    header {
+	    display: none;
+	}
+	
+	/*#cover-donate {*/
+ /*       width: 125vw;*/
+ /*       margin-left: 1.5rem;*/
+ /*   }*/
+	
+    .mainmenu-area {
+	    background: white;
+    }
+}
+
+@media (max-width: 769px) {
+	#youtube-video {
+		width: 91vw !important;
+	}
 }
 
 @media (min-width: 320px) and (max-width: 480px) {
