@@ -173,9 +173,9 @@
 						<li><a href="contact.php">Contact</a></li>
 
 						<li>
-							<a href="https://books.shibpursristi.org/portal/shibpursristi/login">Login</a>
+							<a href=" #">Login</a>
 						</li>
 
 
-						<form><script src="https://cdn.razorpay.com/static/widget/payment-button.js" data-payment_button_id="pl_Fccy7n81nUQJSy"> </script> </form>
+						<form><script src="#" data-payment_button_id="pl_Fccy7n81nUQJSy"> </script> </form>
 	</ul>

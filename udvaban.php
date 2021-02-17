@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from hasan.themexlab.com/new/charity-home-html/events-single.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 22 Mar 2020 15:53:46 GMT -->
 
 <head>
     <meta charset="UTF-8">
@@ -1031,6 +1030,5 @@ echo $statusMsg;
 
 </body>
 
-<!-- Mirrored from hasan.themexlab.com/new/charity-home-html/events-single.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 22 Mar 2020 15:53:46 GMT -->
 
 </html>

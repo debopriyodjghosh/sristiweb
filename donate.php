@@ -9,7 +9,7 @@
         <div class="col col-sm-12 col-md-6" id="donate-btn">
             <h1>Lorem Ipsum some text here</h1>
             <p>some text here</p>
-            <form><script src="https://cdn.razorpay.com/static/widget/payment-button.js" data-payment_button_id="pl_Fccy7n81nUQJSy"> </script> </form>
+            <form><script src="#" data-payment_button_id="pl_Fccy7n81nUQJSy"> </script> </form>
         </div>
     </div>
 </div>
