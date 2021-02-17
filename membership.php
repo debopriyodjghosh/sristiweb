@@ -2,28 +2,6 @@
 	include 'header.php';
 ?>
 
-<?php
-  include "connection.php";
-  if($_POST['submit'])
-  {
-    $name = $_POST['name'];
-    $address = $_POST['address'];
-    $phone = $_POST['phone'];
-    $gender = $_POST['gender'];
-    $email = $_POST['email'];
-    $dob = $_POST['dob'];
-    $photo = $_POST['photo'];
-    $prev_work = $_POST['other-work'];
-    $occupation = $_POST['occupation'];
-    $reason = $_POST['reason-joining'];
-
-    $sql = "insert into `REPLACE WITH DATABASE NAME` (`id`,`name`,`address`,`phone`,`position`) values('NULL','$name','$address','$phone','$position')";
-
-    $db->query($sql);
-    header("location:show.php");
-    
-  }
-?>
 
 <section style="padding: 2rem 0;">
 <div class="container">
@@ -76,7 +54,8 @@
 </section>
 
 
-
+<!--<label for="member-photo">Upload Your Photo (Passport Size)</label>
+            <input type="file" name="photo" id="member-photo">-->
 
 <script>
 function functionChange() {
@@ -84,8 +63,8 @@ function functionChange() {
   membershipFormArea.innerHTML = `<div class="row">
       <div class="col-md-12">
         <h2>Membership Form</h2>
-        <form action="" class="contact-form row"
-          id="membership-form">
+        <form action="add_member.php" method="post"class="contact-form row"
+          id="membership-form"  enctype="multipart/form-data">
           <div class="col-md-6">
             <h3>Personal & Contact Details</h3>
             <input type="text" name="name" placeholder="Name">
@@ -97,9 +76,8 @@ function functionChange() {
               <input type="radio" id="other" name="gender" value="other">
               <label for="other">Other</label>
             </div>
-            <input type="date" name="dob" id="dobe" placeholder="Date of Birth">
-            <label for="member-photo">Upload Your Photo (Passport Size)</label>
-            <input type="file" name="photo" id="member-photo">
+            <input type="date" name="dob" id="dob" placeholder="Date of Birth">
+            
             <input type="text" name="phone" placeholder="Phone">
             <input type="text" name="email" placeholder="Email">
             <textarea name="address" placeholder="Address" cols="30" rows="4" id="member-details"></textarea>
@@ -108,9 +86,21 @@ function functionChange() {
             <h3>Experience</h3>
             <input type="text" name="occupation" placeholder="Current Occupation/Study">
             <input type="text" name="other-work" placeholder="Other Voluntary Work">
+            
             <textarea name="reason-joining"
               placeholder="Why are you interested in becoming a volunteer of Shibpur Sristi?" cols="30" rows="4"
               id="member-details"></textarea>
+              
+             <label for="member-photo">Upload Your Photo (Passport Size)</label>
+           
+            <input type="file" name="photo">
+            
+            <label for="member-id">Upload Your ID Proof (Aadhar/Voter)</label>             
+            <input type="file" name="photo-id">
+            
+            
+          
+            
           </div>
           <div class="col-md-12 center"><button class="thm-btn" type="submit" name="submit">Submit</button></div>
         </form>
@@ -118,7 +108,10 @@ function functionChange() {
       <p>&nbsp;</p>
     </div>`
 };
+// <input type="file" name="photo" id="member-photo"><label for="member-id">Upload Your ID Proof (Aadhar/Voter)</label>             <input type="file" name="file[]" id="file" multiple>//
 </script>
+
+
 <?php
 	include 'footer.php';
 ?>

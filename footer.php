@@ -1,83 +1,54 @@
 <footer class="footer sec-padding">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-3 col-sm-6">
+				<div class="col-md-4 col-sm-6">
 					<div class="footer-widget about-widget">
 						<a href="#">
-							<img src="img/resources/footer-logo.png" alt="Awesome Image"/>
+							<!--<img src="img/resources/logo.png" alt="Awesome Image"/>-->
+							<h3 class="title">Shibpur Sristi</h3>
 						</a>
-						<p>Lorem ipsum dolor sit amet, eu me evert laboramus, iudico </p>
+						
+						<p>"The best way to find yourself is to serve others" </p>
 						<ul class="contact">
-							<li><i class="fa fa-map-marker"></i> <span>60 Grant Ave. Carteret NJ 0708</span></li>
-							<li><i class="fa fa-phone"></i> <span>(880) 1723801729</span></li>
-							<li><i class="fa fa-envelope-o"></i> <span>example@gmail.com</span></li>
+							<li><i class="fa fa-map-marker"></i> <span>3/1, Nabin Senapati Lane, Howrah-711101</span></li>
+							<li><i class="fa fa-phone"></i> <span>+91 8820328618</span></li>
+							<li><i class="fa fa-envelope-o"></i> <span>info@shibpursristi.org</span></li>
+							<li><i class="fa fa-globe"></i> <span>www.shibpursristi.org</span></li>
 						</ul>
 						<ul class="social">
-							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-							<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-							<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-							<li><a href="#"><i class="fa fa-pinterest"></i></a></li>
-							<li><a href="#"><i class="fa fa-youtube"></i></a></li>
+							<li><a href="https://www.facebook.com/sristii2013"><i class="fa fa-facebook"></i></a></li>
+					<li><a href="https://twitter.com/shibpursristi14"><i class="fa fa-twitter"></i></a></li>
+					<li><a href="https://www.youtube.com/channel/UCLhhn_H9iWcwSTI4MalAa-w"><i class="fa fa-youtube"></i></a></li>
+					<li><a href="https://www.linkedin.com/company/shibpur-sristi/"><i class="fa fa-linkedin"></i></a></li>
+					<li><a href="https://www.instagram.com/shibpursristi/"><i class="fa fa-instagram"></i></a></li>
 						</ul>
 					</div>
 				</div>
-				<div class="col-md-2 col-sm-6">
-					<div class="footer-widget quick-links">
-						<h3 class="title">Pages</h3>
-						<ul>
-							<li><a href="about.html">About Us</a></li>
-							<li><a href="causes-grid.html">Causes</a></li>
-							<li><a href="events-grid.html">Events</a></li>
-							<li><a href="faq.html">Faq</a></li>
-							<li><a href="blog-style-two.html">Archives</a></li>
-							<li><a href="blog-style-one.html">News</a></li>
-							<li><a href="contact.html">Contact</a></li>
-						</ul>
-					</div>
-				</div>
-				<div class="col-md-3 latest-post col-sm-6">
-					<div class="footer-widget latest-post">
-						<h3 class="title">Activity Report</h3>
-						<ul>
-							<li>
-								<span class="border"></span>
-								<div class="content">
-									<a href="blog-details.html">If you need a crown or lorem an implant you will pay it </a>
-									<span>From July 2, 2014</span>
-									<span>To July 2, 2014</span>
-								</div>
-							</li>
-						
-							<!--<li>
-								<span class="border"></span>
-								<div class="content">
-									<a href="blog-details.html">If you need a crown or lorem an implant you will pay it </a>
-									<span>July 2, 2014</span>
-								</div>
-							</li>-->
+			
+
 							
-					
-								<li>
-									<div class="footer-widget contact-widget">
-										<h3 class="title">Signup for Newsletter</h3>
-											<form action="http://hasan.themexlab.com/new/charity-home-html/inc/sendemail.php" class="contact-form" id="footer-cf">
-											<input type="text" name="email" placeholder="Email Address" >
-											<button type="submit">Signup</button>	
-									</div>
-								</li>
-						
-						</ul>
-					</div>
-				</div>
+					<div class="col-md-4 latest-post col-sm-6">
+					    				
+										<div class="footer-widget contact-widget">
+										<h3 class="title">Read Our Newsletter</h3>
+											<form action="https://www.shibpursristi.org/website/newsletter.php"  class="contact-form" id="footer-cf" method="post">
+    											<input type="text" name="name" placeholder="Your Name" >
+    											<input type="text" name="email" placeholder="Email Address" >
+    											<button type="submit" name="submitNewsletter">Subscribe</button>
+											</form>
+										</div>
+                                    	</div>
+
+				
 				
 				<div class="col-md-4 col-sm-6">
 					<div class="footer-widget contact-widget">
-						<h3 class="title">Contact Form</h3>
-						<form action="http://hasan.themexlab.com/new/charity-home-html/inc/sendemail.php" class="contact-form" id="footer-cf">
+						<h3 class="title">Ask A Question</h3>
+						<form action="https://www.shibpursristi.org/website/mailcontact.php" class="contact-form" id="footer-cf" method="post">
 							<input type="text" name="name"  placeholder="Full Name">
 							<input type="text" name="email" placeholder="Email Address" >
 							<textarea name="message" placeholder="Your Message"></textarea>
-							<button type="submit">Send</button>
+							<button type="submit" name="submitContact">Send</button>
 						</form>
 					</div>
 				</div>
@@ -88,9 +59,10 @@
 
 	<section class="footer-bottom">
 		<div class="container text-center">
-			<p>Theme Created By <a href="#">TEMPLATE PATH</a> with love</p>
+			<p> @ <a href="#">WEB Team</a> Shibpur Sristi</p>
 		</div>
 	</section>
+<!--newsletter-->
 
 
 	<!-- main jQuery -->
@@ -118,7 +90,7 @@
 	<!-- count to -->
 	<script src="js/jquery.countTo.js"></script>
 	<!-- gmap helper -->
-	<script src="http://maps.google.com/maps/api/js?sensor=true"></script>
+	<script src="http://maps.google.com/maps/api/js?sensor=true"></script><!--change-->
 	<!-- gmap main script -->
 	<script src="js/gmap.js"></script>
 
@@ -148,5 +120,4 @@
 
 </body>
 
-<!-- Mirrored from hasan.themexlab.com/new/charity-home-html/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 22 Mar 2020 15:53:04 GMT -->
 </html>

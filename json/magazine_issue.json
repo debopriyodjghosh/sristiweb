@@ -1,0 +1,25 @@
+{
+    "curr_issue": {
+        "mag_link":"./magazine/Udvaban_mag_3.pdf"
+    },
+    "prev_issue": [
+        {
+            "date": "October - 2020",
+            "display_cover": "./img/magazine/Cover_3.jpg",
+            "issue_no": "3",
+            "link": "./magazine/Udvaban_mag_3.pdf"
+        },
+        {
+            "date": "June - 2020",
+            "display_cover": "./img/magazine/Cover_2.jpg",
+            "issue_no": "2",
+            "link": "./magazine/Udvaban_mag_2.pdf"
+        },
+        {
+            "date": "March - 2020",
+            "display_cover": "./img/magazine/Cover_1.jpg",
+            "issue_no": "1",
+            "link": "./magazine/Udvaban_mag_1.pdf"
+        }
+    ]
+}
