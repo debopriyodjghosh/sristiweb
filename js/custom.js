@@ -1,5 +1,5 @@
 /***************************************************************************************************************
-||||||||||||||||||||||||||||         CUSTOM SCRIPT            ||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||         CUSTOM SCRIPT FOR CHARITY HOME            ||||||||||||||||||||||||||||||||||||
 ****************************************************************************************************************
 ||||||||||||||||||||||||||||              TABLE OF CONTENT                  ||||||||||||||||||||||||||||||||||||
 ****************************************************************************************************************
@@ -423,8 +423,8 @@ function gMap() {
 
 document.addEventListener('DOMContentLoaded', function () {
 	var elems = document.querySelectorAll('.sidenav');
-	var instances = M.Sidenav.init(elems, { edge: 'right'});
-	instance.close();
+	var instances = M.Sidenav.init(elems, { edge: 'right' });
+	// instance.close();
 });
 
 // Dom Ready Function
@@ -444,8 +444,8 @@ jQuery(document).on('ready', function () {
 		bxgeventCarousel();
 		selectInput();
 		datePicker();
-		gMap();
-		mobileMenu();
+		// gMap();
+		// mobileMenu();
 	})(jQuery);
 });
 
@@ -463,3 +463,11 @@ jQuery(window).on('scroll', function () {
 		stickyHeader();
 	})(jQuery);
 });
+
+const doAjax = (url, type, data) => {
+	return $.ajax({
+		url: url,
+		type: type,
+		data: data
+	})
+}

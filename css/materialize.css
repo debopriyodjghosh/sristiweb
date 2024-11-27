@@ -510,13 +510,13 @@ nav .input-field label.active i {
 
 .submenu li {
   border-bottom: none;
-  border-top: 1px solid #444;
+  /*border-top: 1px solid #444;*/
 }
 
 
 /* ===== Scrollbar CSS ===== */
 body::-webkit-scrollbar {
-  width: 0.4rem;
+  width: 0.75rem;
 }
 
 body::-webkit-scrollbar-track {
@@ -524,6 +524,6 @@ body::-webkit-scrollbar-track {
 }
 
 body::-webkit-scrollbar-thumb {
-  background: #2283BF;
+  background: rgba(0,0,0,0.3);
 }
 
