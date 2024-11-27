@@ -1,63 +1,94 @@
-<?php
-include "header.php";
-?>
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <?php include './includes/head.php'?>
+</head>
 
+<body>
+    <!-- Navbar -->
+    <?php include './includes/nav.php'?>
 
-
-
-
-
-<div class="row">
-  <?php
-  // Include the database configuration file
-  include_once 'db.php';
-  if (isset($_POST['submit'])) {
-
-    $prj_name = $_POST['prj_name'];
-    #echo $prj_name;
-    // Get images from the database SELECT * FROM images ORDER BY id DESC 
-    $query = $conn->query("SELECT * FROM image_db WHERE prj_name = '$prj_name'");
-
-    if ($query->num_rows > 0) {
-      $count = 1;
-      while ($row = $query->fetch_assoc()) {
-
-        //////change in server with https://www.shibpursristi.org/web/uploads/
-        $imageURL = 'https://www.shibpursristi.org/website/admin/sristi_page/uploads/' . $row["img"];
-        $prj_name = $row["prj_name"];
-        $prj_catagory = $row["prj_catagory"];
-
-  ?>
-
-
-
-        <div class="col-md-4">
-          <div class="thumbnail">
-            <a href="<?php echo $imageURL; ?>" target="_blank">
-              <img src="<?php echo $imageURL; ?>" alt="Lights" style="width:100%;height:350px;">
-            </a>
-          </div>
+    <section class="inner-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 sec-title colored text-center">
+                    <h2>Gallery</h2>
+                    <span class="decor"><span class="inner"></span></span>
+                </div>
+            </div>
         </div>
-        <?php
-        if ($count % 3 == 0) {
-            echo '</div> <div class="row">';
+    </section>
+
+
+    <!--Gallery Section-->
+    <section class="gallery-section full-width pb_2">
+        <div class="auto-container">
+
+            <!--Filter-->
+            <!--<div class="filters">-->
+            <!--	<ul class="filter-tabs style-one clearfix anim-3-all">-->
+            <!--        <li class="filter" data-role="button" data-filter="all">All</li>-->
+            <!--        <li class="filter" data-role="button" data-filter=".child">Child</li>-->
+            <!--        <li class="filter" data-role="button" data-filter=".charity">Charity</li>-->
+            <!--        <li class="filter" data-role="button" data-filter=".sponsorship">Sponsorship</li>-->
+            <!--        <li class="filter" data-role="button" data-filter=".volunteering">Volunteering</li>-->
+            <!--    </ul>-->
+            <!--</div>-->
+
+        </div>
+
+        <div class="images-container" style="margin: 0 2rem;">
+            <div class="filter-list clearfix">
+
+                <div id="gallery">
+                    <!--========== Loading through JS ==============  -->
+                    <p>No Images Found...</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <?php include './includes/footer.php'; ?>
+
+    <?php include './includes/scripts.php'; ?>
+
+    <script>
+    const setGallery = (images) => {
+        var template = '<div class="row">';
+
+        for (var i = 0; i < images.length; i++) {
+            if (i % 3 == 0) {
+                template += `</div> <div class="row">`;
+            }
+            template += `<div class="col-md-4">
+            <div class="thumbnail">
+                <a href="${images[i].url}" target="_blank">
+                    <img src="${images[i].url}" alt="Lights" style="width:100%;height:350px;">
+                </a>
+            </div>
+        </div>`;
         }
 
-        $count++;
-      }
-    } else { 
-        echo "<p>No image(s) found...</p>";
+        template += `</div>`;
+
+        return template;
     }
-  }
-        ?>
 
-</div>
+    var urlParams = new URLSearchParams(window.location.search);
+    var project = urlParams.get('project')
 
+    doAjax('api/api_images.php', 'GET', {
+            project: project
+        })
+        .then(response => {
+            var images = JSON.parse(response).data;
+            $('#gallery').html(setGallery(images));
+            $('h2').html(project+" Gallery")
+        })
+    </script>
 
+</body>
 
-
-
-<?php
-include "footer.php";
-?>
+</html>

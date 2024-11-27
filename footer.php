@@ -31,7 +31,7 @@
 					    				
 										<div class="footer-widget contact-widget">
 										<h3 class="title">Read Our Newsletter</h3>
-											<form action="https://www.shibpursristi.org/website/newsletter.php"  class="contact-form" id="footer-cf" method="post">
+											<form action="https://www.shibpursristi.org/newsletter.php"  class="contact-form" id="footer-cf" method="post">
     											<input type="text" name="name" placeholder="Your Name" >
     											<input type="text" name="email" placeholder="Email Address" >
     											<button type="submit" name="submitNewsletter">Subscribe</button>
@@ -44,7 +44,7 @@
 				<div class="col-md-4 col-sm-6">
 					<div class="footer-widget contact-widget">
 						<h3 class="title">Ask A Question</h3>
-						<form action="https://www.shibpursristi.org/website/mailcontact.php" class="contact-form" id="footer-cf" method="post">
+						<form action="" class="contact-form" id="footer-cf" method="post">
 							<input type="text" name="name"  placeholder="Full Name">
 							<input type="text" name="email" placeholder="Email Address" >
 							<textarea name="message" placeholder="Your Message"></textarea>
@@ -59,7 +59,7 @@
 
 	<section class="footer-bottom">
 		<div class="container text-center">
-			<p> @ <a href="#">WEB Team</a> Shibpur Sristi</p>
+			<p> @ <a href="https://www.linkedin.com/in/debopriyo-ghosh-3669b6188">Debopriyo ©WEB Team</a> Shibpur Sristi</p>
 		</div>
 	</section>
 <!--newsletter-->

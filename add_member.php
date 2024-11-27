@@ -6,7 +6,7 @@ if(isset($_POST['submit'])){
     include_once 'db.php'; 
      
     // File upload configuration 
-    $targetDir = "member_data/"; 
+    $targetDir = "admin/sristi_page/member_data/"; 
     $allowTypes = array('jpg','png','jpeg'); 
     $name = $_POST['name'];
     $gender = $_POST['gender'];
@@ -20,15 +20,15 @@ if(isset($_POST['submit'])){
     $photo = $_POST['photo'];
     $photoid = $_POST['photo-id'];
 
-    echo $name;
-    echo $photo;
-    echo $photoid ;
+    // echo $name;
+    // echo $photo;
+    // echo $photoid ;
     
     $statusMsg = $errorMsg = $insertValuesSQL = $errorUpload = $errorUploadType = ''; 
     $fileNamePhoto = $_FILES['photo']['name']; 
-    echo $fileNamePhoto;
+    // echo $fileNamePhoto;
     $fileNamePhotoId = $_FILES['photo-id']['name']; 
-    echo $fileNamePhotoId;
+    // echo $fileNamePhotoId;
     //echo "$fileNamePhoto $fileNamePhotoId"
     if(!empty($fileNamePhoto) && !empty($fileNamePhotoId)){ 
         
@@ -94,8 +94,8 @@ $email_message .= "Email: ".clean_string($email)."\n";
 $email_message .= "Current Occupation: ".clean_string($curr_occupation)."\n";
       $email_message .= "Other Work: ".clean_string($other_work)."\n";
     $email_message .= "Reason of Joining: ".clean_string( $joining_reason)."\n";
-        $email_message .= "Photo: ".clean_string($photo)."\n";
-         $email_message .= "ID: ".clean_string($photoid)."\n";
+        $email_message .= "Photo: ".clean_string("https://shibpursristi.org/admin/sristi_page/member_data/".$photo)."\n";
+         $email_message .= "ID: ".clean_string("https://shibpursristi.org/admin/sristi_page/member_data/".$photoid)."\n";
  
 // create email headers
 $headers = 'From: '.$email_from."\r\n".
@@ -107,6 +107,10 @@ $headers = 'From: '.$email_from."\r\n".
 <h2>Thank you for contacting us. We will be in touch with you very soon.</h2>
 <br>
 <a href="index.php"><h3>Back to Home</h3> </a>
+<script>
+    window.alert("Your response has been submitted.");
+    window.location.replace("http://www.shibpursristi.org");
+</script>
  </html>
 
 

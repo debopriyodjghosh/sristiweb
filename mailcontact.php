@@ -5,7 +5,7 @@
 if(isset($_POST['submitContact'])) {
  
     // EDIT THE 2 LINES BELOW AS REQUIRED
-    $email_to = "your mail";
+    $email_to = "";
     $email_subject = "ASK A QUESTION";
  
     function died($error) {
@@ -46,7 +46,10 @@ if(isset($_POST['submitContact'])) {
   if(!preg_match($string_exp,$name)) {
     $error_message .= 'The  Name you entered does not appear to be valid.<br />';
   }
- 
+  
+ if(!preg_match($string_exp,$message)) {
+    $error_message .= 'The message you entered do not appear to be valid.<br />';
+  }
   if(strlen($message) < 2) {
     $error_message .= 'The message you entered do not appear to be valid.<br />';
   }
@@ -79,9 +82,10 @@ $headers = 'From: '.$email_from."\r\n".
 ?>
 <!-- include your own success html here -->
  <html>
+     <div style="text-align: center;">
 <h2>Thank you for contacting us. We will be in touch with you very soon.</h2>
 <br>
-<a href="index.php"><h3>Back to Home</h3> </a>
+<a href="/"><h3>Back to Home</h3> </a></div>
  </html>
 <?php
  

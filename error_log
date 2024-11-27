@@ -1,0 +1,496 @@
+[18-Nov-2021 07:17:59 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home1/shibpmpw/public_html/event.php on line 36
+[18-Nov-2021 07:18:02 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home1/shibpmpw/public_html/event.php on line 36
+[18-Nov-2021 07:18:04 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home1/shibpmpw/public_html/event.php on line 36
+[18-Nov-2021 07:18:10 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home1/shibpmpw/public_html/event.php on line 36
+[18-Nov-2021 07:18:25 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home1/shibpmpw/public_html/event.php on line 36
+[27-Feb-2022 06:49:33 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:49:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:49:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:49:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:49:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:49:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:49:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:49:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:49:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:49:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:50:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:50:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:50:01 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:50:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:50:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:50:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:50:05 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:50:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:50:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:50:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:50:16 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:50:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:50:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:50:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:50:20 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:50:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:50:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:50:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:50:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:50:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:50:27 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:50:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:50:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:50:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:50:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:50:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:50:38 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:50:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:50:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:50:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:50:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:50:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:50:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:50:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:50:42 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:50:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:50:48 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:50:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:50:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:50:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:50:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:50:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:50:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:50:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:50:59 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:50:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:51:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:51:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:51:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:51:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:51:15 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:51:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:51:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:51:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:51:22 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:51:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:51:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:51:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:51:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:51:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:51:25 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:51:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:51:25 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:51:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:51:28 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:51:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:51:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:51:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:51:29 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:51:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:51:30 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:51:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:51:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:51:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:51:33 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:51:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:51:34 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:51:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:51:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:51:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:51:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:51:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:51:42 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:51:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:51:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:51:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:51:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:51:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:51:57 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:51:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:51:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:51:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:52:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:52:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:52:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:52:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:52:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:52:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:52:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:52:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:52:40 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:52:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:52:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:52:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:52:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:52:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:52:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:52:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:52:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:52:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:52:52 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:52:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:52:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:52:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:52:57 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:52:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:52:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:52:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:53:12 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:53:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:53:20 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:53:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:53:21 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:53:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[27-Feb-2022 06:53:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[27-Feb-2022 06:53:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[26-Apr-2022 05:49:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home1/shibpmpw/public_html/db.php on line 6
+[26-Apr-2022 05:49:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[15-May-2022 00:48:22 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home1/shibpmpw/public_html/db.php on line 6
+[15-May-2022 00:48:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[15-May-2022 00:48:23 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home1/shibpmpw/public_html/db.php on line 6
+[15-May-2022 00:48:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[15-May-2022 00:48:34 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home1/shibpmpw/public_html/db.php on line 6
+[15-May-2022 00:48:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[15-May-2022 00:48:35 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home1/shibpmpw/public_html/db.php on line 6
+[15-May-2022 00:48:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[02-Jul-2022 00:48:34 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home1/shibpmpw/public_html/db.php on line 6
+[02-Jul-2022 00:48:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[02-Jul-2022 00:48:35 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home1/shibpmpw/public_html/db.php on line 6
+[02-Jul-2022 00:48:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[02-Jul-2022 00:48:37 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): No such file or directory in /home1/shibpmpw/public_html/db.php on line 6
+[02-Jul-2022 00:48:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/db.php:8
+Stack trace:
+#0 /home1/shibpmpw/public_html/index.php(81): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/db.php on line 8
+[01-Aug-2022 17:06:08 UTC] PHP Warning:  Undefined array key "photo" in /home1/shibpmpw/public_html/add_member.php on line 20
+[01-Aug-2022 17:06:08 UTC] PHP Warning:  Undefined array key "photo-id" in /home1/shibpmpw/public_html/add_member.php on line 21
+[01-Aug-2022 17:06:08 UTC] PHP Warning:  Undefined variable $email_message in /home1/shibpmpw/public_html/add_member.php on line 87
+[01-Aug-2022 17:06:08 UTC] PHP Warning:  Undefined variable $email_from in /home1/shibpmpw/public_html/add_member.php on line 101
+[01-Aug-2022 17:06:08 UTC] PHP Warning:  Undefined variable $email_from in /home1/shibpmpw/public_html/add_member.php on line 102
+[31-Aug-2022 07:34:53 UTC] PHP Warning:  Undefined array key "photo" in /home1/shibpmpw/public_html/add_member.php on line 28
+[31-Aug-2022 07:34:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/shibpmpw/public_html/add_member.php on line 28
+[31-Aug-2022 07:34:53 UTC] PHP Warning:  Undefined array key "photo-id" in /home1/shibpmpw/public_html/add_member.php on line 30
+[31-Aug-2022 07:34:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/shibpmpw/public_html/add_member.php on line 30
+[31-Aug-2022 07:34:53 UTC] PHP Warning:  Undefined variable $email_message in /home1/shibpmpw/public_html/add_member.php on line 87
+[31-Aug-2022 07:34:53 UTC] PHP Warning:  Undefined variable $email_from in /home1/shibpmpw/public_html/add_member.php on line 101
+[31-Aug-2022 07:34:53 UTC] PHP Warning:  Undefined variable $email_from in /home1/shibpmpw/public_html/add_member.php on line 102
+[31-Aug-2022 08:10:50 UTC] PHP Warning:  Undefined array key "photo" in /home1/shibpmpw/public_html/add_member.php on line 28
+[31-Aug-2022 08:10:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/shibpmpw/public_html/add_member.php on line 28
+[31-Aug-2022 08:10:50 UTC] PHP Warning:  Undefined array key "photo-id" in /home1/shibpmpw/public_html/add_member.php on line 30
+[31-Aug-2022 08:10:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/shibpmpw/public_html/add_member.php on line 30
+[31-Aug-2022 08:10:50 UTC] PHP Warning:  Undefined variable $email_message in /home1/shibpmpw/public_html/add_member.php on line 87
+[31-Aug-2022 08:10:50 UTC] PHP Warning:  Undefined variable $email_from in /home1/shibpmpw/public_html/add_member.php on line 101
+[31-Aug-2022 08:10:50 UTC] PHP Warning:  Undefined variable $email_from in /home1/shibpmpw/public_html/add_member.php on line 102
+[31-Aug-2022 11:36:36 UTC] PHP Warning:  Undefined array key "photo" in /home1/shibpmpw/public_html/add_member.php on line 28
+[31-Aug-2022 11:36:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/shibpmpw/public_html/add_member.php on line 28
+[31-Aug-2022 11:36:36 UTC] PHP Warning:  Undefined array key "photo-id" in /home1/shibpmpw/public_html/add_member.php on line 30
+[31-Aug-2022 11:36:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/shibpmpw/public_html/add_member.php on line 30
+[31-Aug-2022 11:36:36 UTC] PHP Warning:  Undefined variable $email_message in /home1/shibpmpw/public_html/add_member.php on line 87
+[31-Aug-2022 11:36:36 UTC] PHP Warning:  Undefined variable $email_from in /home1/shibpmpw/public_html/add_member.php on line 101
+[31-Aug-2022 11:36:36 UTC] PHP Warning:  Undefined variable $email_from in /home1/shibpmpw/public_html/add_member.php on line 102
+[31-Aug-2022 12:04:00 UTC] PHP Warning:  Undefined array key "photo" in /home1/shibpmpw/public_html/add_member.php on line 28
+[31-Aug-2022 12:04:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/shibpmpw/public_html/add_member.php on line 28
+[31-Aug-2022 12:04:00 UTC] PHP Warning:  Undefined array key "photo-id" in /home1/shibpmpw/public_html/add_member.php on line 30
+[31-Aug-2022 12:04:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/shibpmpw/public_html/add_member.php on line 30
+[31-Aug-2022 12:04:00 UTC] PHP Warning:  Undefined variable $email_message in /home1/shibpmpw/public_html/add_member.php on line 87
+[31-Aug-2022 12:04:00 UTC] PHP Warning:  Undefined variable $email_from in /home1/shibpmpw/public_html/add_member.php on line 101
+[31-Aug-2022 12:04:00 UTC] PHP Warning:  Undefined variable $email_from in /home1/shibpmpw/public_html/add_member.php on line 102
+[11-Sep-2022 04:47:31 UTC] PHP Warning:  Undefined array key "file" in /home1/shibpmpw/public_html/udvaban.php on line 633
+[11-Sep-2022 04:47:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/shibpmpw/public_html/udvaban.php on line 633

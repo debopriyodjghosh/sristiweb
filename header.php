@@ -12,6 +12,8 @@
 	<!-- responsive meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="viewport" content="width=device-width">
+	<link rel="apple-touch-icon" href="favicon.png">
+    <link rel="icon" href="favicon.png">
 
 
 	<!-- master stylesheet -->
@@ -37,11 +39,11 @@
 
 			<div class="social-icons pull-right">
 				<ul>
-					<li><a href="https://www.facebook.com/sristii2013"><i class="fa fa-facebook"></i></a></li>
-					<li><a href="https://twitter.com/shibpursristi14"><i class="fa fa-twitter"></i></a></li>
-					<li><a href="https://www.youtube.com/channel/UCLhhn_H9iWcwSTI4MalAa-w"><i class="fa fa-youtube"></i></a></li>
-					<li><a href="https://www.linkedin.com/company/shibpur-sristi/"><i class="fa fa-linkedin"></i></a></li>
-					<li><a href="https://www.instagram.com/shibpursristi/"><i class="fa fa-instagram"></i></a></li>
+					<li><a href="https://www.facebook.com/shibpursristi" target="_blank"><i class="fa fa-facebook"></i></a></li>
+					<li><a href="https://twitter.com/shibpursristi14" target="_blank"><i class="fa fa-twitter"></i></a></li>
+					<li><a href="https://www.youtube.com/channel/UCLhhn_H9iWcwSTI4MalAa-w" target="_blank"><i class="fa fa-youtube"></i></a></li>
+					<li><a href="https://www.linkedin.com/company/shibpur-sristi/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+					<li><a href="https://www.instagram.com/shibpursristi/" target="_blank"><i class="fa fa-instagram"></i></a></li>
 				</ul>
 			</div> <!-- /.social-icons -->
 		</div>
@@ -92,14 +94,16 @@
 				<div class="nav-header">
 					<ul>
 						<li class="dropdown">
-							<a href="index.php">Home</a>
+							<a href="/">Home</a>
 													</li>
+						<li><a href="about.php">About us</a></li>
 
 						<li class="dropdown">
 							<a href="#">Project</a>
 							<ul class="submenu">
 								<li><a href="paridhan.php">Paridhan</a></li>
 								<li><a href="shikshan.php">Shikshan</a></li>
+								<li><a href="relief.php">Relief Works</a></li>
 							</ul>
 						</li>
 						<li class="dropdown">
@@ -110,7 +114,7 @@
 							<a href="gallery.php">Gallery</a>
 							
 						</li>
-						<li><a href="about.php">About us</a></li>
+						
 
 						<li class="dropdown">
 							<a href="membership.php">Join Us</a>
@@ -145,14 +149,16 @@
 	<ul id="slide-out" class="sidenav">
 	    <a href="#" class="sidenav-close closeNav"><i class="fa fa-close"></i></a>
 	<li style="margin-top: 3.5rem;">
-							<a href="index.php">Home</a>
+							<a href="/">Home</a>
 													</li>
-
+													
+                        <li><a href="about.php">About us</a></li>
 						<li>
 							<a href="#">Project</a>
 							<ul class="submenu">
 								<li><a href="paridhan.php">Paridhan</a></li>
 								<li><a href="shikshan.php">Shikshan</a></li>
+								<li><a href="relief.php">Relief Works</a></li>
 							</ul>
 						</li>
 						<li>
@@ -163,7 +169,7 @@
 							<a href="gallery.php">Gallery</a>
 							
 						</li>
-						<li><a href="about.php">About us</a></li>
+						
 
 						<li>
 							<a href="membership.php">Join Us</a>
@@ -173,9 +179,9 @@
 						<li><a href="contact.php">Contact</a></li>
 
 						<li>
-							<a href=" #">Login</a>
+							<a href="https://books.shibpursristi.org/portal/shibpursristi/login">Login</a>
 						</li>
 
 
-						<form><script src="#" data-payment_button_id="pl_Fccy7n81nUQJSy"> </script> </form>
+						<form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_Fccy7n81nUQJSy" async> </script> </form>
 	</ul>

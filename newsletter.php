@@ -6,8 +6,8 @@ if(isset($_POST['submitNewsletter'])){
      
     $name = $_POST['name'];
     $email = $_POST['email'];
-    echo $name;
-    echo $email;
+    // echo $name;
+    // echo $email;
     $statusMsg = $errorMsg = $insertValuesSQL = $errorUpload = $errorUploadType = ''; 
     
     $insertValuesSQL .= "('".$name."','".$email."'),"; 
@@ -20,7 +20,7 @@ if(isset($_POST['submitNewsletter'])){
             $errorUpload = !empty($errorUpload)?'Upload Error: '.trim($errorUpload, ' | '):''; 
             $errorUploadType = !empty($errorUploadType)?'File Type Error: '.trim($errorUploadType, ' | '):''; 
             $errorMsg = !empty($errorUpload)?'<br/>'.$errorUpload.'<br/>'.$errorUploadType:'<br/>'.$errorUploadType; 
-            $statusMsg = " Your Data uploaded successfully.".$errorMsg; 
+            $statusMsg = "Subscribed successfully.".$errorMsg; 
         }else{ 
             $statusMsg = "Sorry, there was an error uploading your file."; 
         } 
