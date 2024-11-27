@@ -1,0 +1,45 @@
+[14-Mar-2023 18:16:30 UTC] PHP Warning:  Undefined array key "limit" in /home1/shibpmpw/public_html/api/api_latestWork.php on line 6
+[14-Mar-2023 18:16:30 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home1/shibpmpw/public_html/api/api_latestWork.php on line 13
+[10-Apr-2023 01:45:17 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home1/shibpmpw/public_html/api/api_images.php on line 13
+[18-Apr-2023 18:42:28 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home1/shibpmpw/public_html/api/api_images.php on line 13
+[17-May-2023 03:24:20 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/shibpmpw/public_html/includes/db.php on line 5
+[17-May-2023 03:24:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/includes/db.php:7
+Stack trace:
+#0 /home1/shibpmpw/public_html/api/api_latestWork.php(3): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/includes/db.php on line 7
+[17-May-2023 03:24:20 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home1/shibpmpw/public_html/includes/db.php on line 5
+[17-May-2023 03:24:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home1/shibpmpw/public_html/includes/db.php:7
+Stack trace:
+#0 /home1/shibpmpw/public_html/api/api_galleryOverview.php(3): include_once()
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/includes/db.php on line 7
+[21-May-2023 09:10:02 UTC] PHP Warning:  Undefined array key "limit" in /home1/shibpmpw/public_html/api/api_latestWork.php on line 6
+[21-May-2023 09:10:02 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home1/shibpmpw/public_html/api/api_latestWork.php on line 13
+[22-Jun-2023 05:51:30 UTC] PHP Warning:  Undefined array key "limit" in /home1/shibpmpw/public_html/api/api_latestWork.php on line 6
+[22-Jun-2023 05:51:30 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home1/shibpmpw/public_html/api/api_latestWork.php on line 13
+[22-Jun-2023 05:51:39 UTC] PHP Warning:  Undefined array key "project" in /home1/shibpmpw/public_html/api/api_projects.php on line 7
+[05-Jan-2024 12:03:25 UTC] PHP Warning:  Undefined array key "limit" in /home1/shibpmpw/public_html/api/api_latestWork.php on line 6
+[05-Jan-2024 12:03:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home1/shibpmpw/public_html/api/api_latestWork.php:10
+Stack trace:
+#0 /home1/shibpmpw/public_html/api/api_latestWork.php(10): mysqli->query('SELECT * FROM p...')
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/api/api_latestWork.php on line 10
+[10-Jan-2024 22:22:41 UTC] PHP Warning:  Undefined array key "limit" in /home1/shibpmpw/public_html/api/api_latestWork.php on line 6
+[10-Jan-2024 22:22:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home1/shibpmpw/public_html/api/api_latestWork.php:10
+Stack trace:
+#0 /home1/shibpmpw/public_html/api/api_latestWork.php(10): mysqli->query('SELECT * FROM p...')
+#1 {main}
+  thrown in /home1/shibpmpw/public_html/api/api_latestWork.php on line 10
+[10-Jun-2024 19:28:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home1/shibpmpw/public_html/includes/db.php:5
+Stack trace:
+#0 /home1/shibpmpw/public_html/includes/db.php(5): mysqli_connect('localhost', 'shibpmpw_develo...', Object(SensitiveParameterValue), 'shibpmpw_web')
+#1 /home1/shibpmpw/public_html/api/api_galleryOverview.php(3): include_once('/home1/shibpmpw...')
+#2 {main}
+  thrown in /home1/shibpmpw/public_html/includes/db.php on line 5
+[10-Jun-2024 19:28:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No such file or directory in /home1/shibpmpw/public_html/includes/db.php:5
+Stack trace:
+#0 /home1/shibpmpw/public_html/includes/db.php(5): mysqli_connect('localhost', 'shibpmpw_develo...', Object(SensitiveParameterValue), 'shibpmpw_web')
+#1 /home1/shibpmpw/public_html/api/api_latestWork.php(3): include_once('/home1/shibpmpw...')
+#2 {main}
+  thrown in /home1/shibpmpw/public_html/includes/db.php on line 5
